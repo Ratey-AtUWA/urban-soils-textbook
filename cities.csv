@@ -1,0 +1,395 @@
+Country,City,alt_name_or_state,population,lat,long
+Pakistan,Karachi,,14910352,24.87,66.99
+China,Shanghai,,14348535,31.2165,121.4365
+India,Mumbai,Bombay,11978450,19.017,72.857
+Russian Federation,Moskva,,11918057,55.7522,37.6155
+China,Beijing,PEKING,11509595,39.9289,116.3883
+Pakistan,Lahore,,11126285,31.56,74.35
+Republic of Korea,Seoul,,10038916,37.5663,126.9997
+India,Delhi,,9879172,28.67,77.23
+China,Chongqing,,9691901,29.565,106.595
+Indonesia,Jakarta,,9607787,-6.1744,106.8294
+Japan,Tokyo,,9272740,35.685,139.7514
+Bangladesh,Dhaka,,8906035,23.7231,90.4086
+Mexico,Mexico Ciudad De,,8874724,19.4424,-99.131
+Mexico,Ciudad Del Carmen,,8720916,18.6537,-91.8245
+Iran (Islamic Republic of),Tehran,,8693706,35.6719,51.4243
+United States of America,New York,NY,8550405,40.6943,-73.9249
+China,Guangzhou,,8524826,23.145,113.325
+Peru,Lima,,8472935,-12.048,-77.0501
+China,Wuhan,,8312700,30.58,114.27
+United Kingdom of Great Britain and Northern Ireland,London,,8135667,51.5,-0.1167
+Egypt,Cairo,,7771617,30.05,31.25
+China,Tianjin,,7499181,39.13,117.2
+"China, Hong Kong SAR",Hong Kong,,7451000,22.305,114.185
+China,Shenzhen,,7008831,22.5524,114.1221
+Colombia,Bogota,,6763325,4.5964,-74.0833
+China,Dongguan,,6445777,23.0489,113.7447
+Thailand,Bangkok,,6355144,13.75,100.5166
+Brazil,Rio De Janeiro,,6320446,-22.925,-43.225
+Chile,Santiago,,6148754,-33.45,-70.667
+Singapore,Singapore,,5638676,1.293,103.8558
+China,Shenyang,,5303053,41.805,123.45
+Nigeria,Lagos,,5195247,6.4433,3.3915
+Saudi Arabia,Riyadh,,5188286,24.6408,46.7727
+Russian Federation,St Petersburg,,4990602,34.1,74.815
+Australia,Sydney,,4643795,-33.92,151.1852
+India,Kolkata,Calcutta,4572876,22.495,88.3247
+Australia,Melbourne,,4557182,-37.82,144.975
+China,Xian,,4481508,34.275,108.895
+Cote d'Ivoire,Abidjan,,4395243,5.32,-4.04
+United Republic of Tanzania,Dar es Salaam,,4364541,-6.8,39.2683
+India,Chennai,,4343645,13.09,80.28
+China,Chengdu,,4333541,30.67,104.07
+India,Bangalore,,4301326,12.97,77.56
+Egypt,Alexandria,,4030582,31.2,29.95
+Jordan,Amman,,4007526,31.95,35.9333
+United States of America,Los Angeles,CA,3976322,34.1139,-118.4068
+Iraq,Baghdad,,3841268,33.3386,44.3939
+Japan,Yokohama,,3724844,35.32,139.58
+Republic of Korea,Busan,Pusan,3662884,35.0951,129.01
+India,Hyderabad,,3637483,25.38,68.375
+China,Nanjing,,3624234,32.05,118.78
+Germany,Berlin,,3613495,52.5218,13.4015
+India,Ahmadabad,,3520085,23.0301,72.58
+China,Harbin,,3481504,45.75,126.65
+Saudi Arabia,Jeddah,,3430697,21.5169,39.2192
+Spain,Madrid,,3269044,40.4,-3.6834
+China,Dalian,,3245191,38.9228,121.6298
+China,Changchun,,3225557,43.865,125.34
+Pakistan,Faisalabad,Lyallpur,3203846,31.41,73.11
+Kenya,Nairobi,,3133518,-1.2833,36.8167
+China,Kunming,,3035406,25.07,102.68
+Iran (Islamic Republic of),Mashhad,,3001184,36.27,59.57
+China,Jinan,,2999934,36.675,116.995
+China,Guiyang,,2985105,26.58,106.72
+Argentina,Buenos Aires,,2965403,-34.6025,-58.3975
+Canada,Toronto,,2956024,43.7,-79.42
+Philippines,Quezon City,,2936116,14.6504,121.03
+Republic of Korea,Incheon,,2923047,37.4761,126.6422
+United States of America,Chicago,IL,2896016,41.8373,-87.6861
+Ukraine,Kyiv,,2893215,50.4334,30.5166
+Italy,Roma,,2873147,41.896,12.4833
+China,Zibo,,2817479,36.8,118.05
+United Republic of Tanzania,Mwanza,,2772509,-2.52,32.93
+Indonesia,Surabaya,,2765487,-7.2492,112.7508
+Democratic People's Republic of Korea,Pyongyang,,2741260,39.0194,125.7547
+Ethiopia,Addis Ababa,,2739551,9.0333,38.7
+China,Qingdao,,2720972,36.09,120.33
+Algeria,Algiers,EL DJAZAIR,2712944,36.7631,3.0506
+Japan,Osaka,,2691185,34.75,135.4601
+Brazil,Salvador,,2674923,-12.97,-38.48
+Republic of Korea,Incheon,,2645189,37.4761,126.6422
+Bangladesh,Chittagong,,2591681,22.33,91.8
+China,Zhengzhou,,2589387,34.755,113.6651
+Egypt,El Giza,,2572581,30.01,31.19
+China,Taiyuan,,2558382,37.875,112.5451
+India,Kanpur,,2551337,26.46,80.32
+India,Pune,,2538473,18.53,73.85
+Myanmar,Yangon,,2513023,16.7834,96.1667
+Republic of Korea,Daegu,Taegu,2484022,35.8668,128.607
+Brazil,Brasilia,,2481272,-15.7833,-47.9161
+China,Chaoyang,Guangdong,2470812,23.37,116.67
+Uzbekistan,Tashkent,,2464933,41.3117,69.2949
+China,Hangzhou,,2451319,30.25,120.17
+India,Surat,,2433835,21.2,72.84
+Indonesia,Bandung,,2394873,-6.95,107.57
+China,Zhongshan,,2363322,22.517,113.393
+India,Jaipur,,2322575,26.9211,75.81
+United States of America,Houston,TX,2303482,29.7868,-95.3905
+Japan,Nagoya,,2295638,35.155,136.915
+Ecuador,Guayaquil,,2291158,-2.22,-79.92
+Australia,Brisbane,,2280290,-27.455,153.0351
+Azerbaijan,Baku,,2254175,40.3953,49.8622
+France,Paris,,2243833,48.8667,2.3333
+Cuba,La Habana,,2202239,23.132,-82.3642
+India,Lucknow,,2185927,26.855,80.915
+Colombia,Medellín,,2183557,6.275,-75.575
+Nigeria,Kano,,2166554,12,8.52
+China,Nanhai,,2133741,23.0961,113.142778
+China,Fuzhou,Fujian,2124435,26.08,119.3
+China,Changsha,,2122873,28.2,112.97
+Venezuela (Bolivarian Republic of),Caracas,,2104423,10.501,-66.917
+Pakistan,Rawalpindi,,2098231,33.6,73.04
+Indonesia,Medan,,2097610,3.58,98.65
+China,Lanzhou,,2087759,36.056,103.792
+United Republic of Tanzania,Dodoma,,2083588,NA,NA
+China,Xiamen,,2053070,24.45,118.08
+India,Nagpur,,2052066,21.17,79.09
+Colombia,Cali,,2039626,3.4,-76.5
+Pakistan,Gujranwala,,2027001,32.1604,74.185
+China,Zaozhuang,,1996798,34.88,117.57
+Australia,Perth,,1984907,-31.955,115.84
+Belarus,Minsk,,1982444,53.9,27.5666
+Pakistan,Peshawar,,1970042,34.005,71.535
+China,Shijiazhuang,,1969975,38.05,114.48
+Iran (Islamic Republic of),Esfahan,,1961260,32.7,51.7
+China,Jilin,,1953134,43.85,126.55
+Japan,Sapporo,,1952356,43.075,141.34
+Romania,Bucuresti,,1944226,44.4334,26.0999
+China,Linyi,,1938510,35.08,118.33
+China,Wenzhou,,1915548,28.02,120.6501
+Cameroon,Douala,,1907479,4.0604,9.71
+Austria,Wien,,1888776,48.2,16.3666
+Pakistan,Multan,,1871843,30.2,71.455
+China,Puning,,1856402,23.309006,116.159647
+China,Nanchang,,1844253,28.68,115.88
+Nigeria,Ibadan,,1835300,7.38,3.93
+Germany,Hamburg,,1830584,53.55,10
+Kazakhstan,Almaty,,1828324.5,43.325,76.915
+Malaysia,Kuala Lumpur,,1824323,3.1667,101.7
+Cameroon,Yaounde,,1817524,3.8667,11.5167
+Indonesia,Tangerang,,1798601,-6.1784,106.6452
+Brazil,Manaus,,1792881,-3.1,-60
+Canada,Montréal,,1784420,45.5,-73.5833
+Philippines,Manila,,1780148,14.6042,120.9822
+Hungary,Budapest,,1777921,47.5,19.0833
+China,Nanchong,,1771920,30.7804,106.13
+Jordan,Irbid,,1770158,32.55,35.85
+China,Nanning,,1766701,22.82,108.32
+Poland,Warszawa,,1754511,52.25,21
+China,Urumqi,,1753298,43.805,87.575
+Brazil,Curitiba,,1751907,-25.42,-49.32
+Zambia,Lusaka,,1747152,-15.4166,28.2833
+Ghana,Kumasi,,1730249,6.69,-1.63
+China,Yantai,,1724404,37.5304,121.4
+China,Fuyang,Zhejiang,1719057,30.0533,119.9519
+China,Tangshan,,1711311,39.6243,118.1944
+Yemen,Sanaa,,1707586,15.3547,44.2066
+Venezuela (Bolivarian Republic of),Maracaibo,,1706547,10.73,-71.66
+New Zealand,Auckland,,1695900,-36.8481,174.763
+China,Shunde,,1694152,22.85,113.1868
+China,Xuzhou,,1679626,34.28,117.18
+China,Baotou,,1671181,40.6522,109.822
+Guinea,Conakry,,1659785,9.5315,-13.6802
+China,Hefei,,1659075,31.85,117.28
+Ghana,Accra,,1658937,5.55,-0.2167
+Mexico,Ecatepec,de Morelos,1655015,19.5764,-99.035
+Philippines,Davao,,1632991,7.11,125.63
+Spain,Barcelona,,1620576,41.3833,2.1834
+Ecuador,Quito,,1619146,-0.215,-78.5001
+United States of America,Phoenix,AZ,1615017,33.5722,-112.0891
+Iran (Islamic Republic of),Karaj,,1614626,35.8004,50.97
+China,Tianmen,,1613739,30.6536,113.1218
+China,Suzhou,Anhui,1601181,33.6361,116.9789
+Mexico,Guadalajara,,1600894,20.67,-103.33
+Mexico,Irapuato,,1600894,20.67,-101.5
+China,Suizhou,,1598752,31.697,113.3837
+China,Nanyang,,1584715,33.0004,112.53
+Philippines,Caloocan,,1583978,14.6492,120.9826
+United States of America,Philadelphia,PA,1567872,40.0076,-75.134
+China,Ningbo,,1567499,29.88,121.55
+Iran (Islamic Republic of),Shiraz,,1565572,29.63,52.57
+China,Luan,,1559037,31.7503,116.48
+Iran (Islamic Republic of),Tabriz,,1558693,38.0863,46.3012
+China,Anshan,,1556285,41.115,122.94
+Indonesia,Semarang,,1555984,-6.9666,110.42
+Republic of Korea,Daejeon,Taejon,1552153,36.3355,127.425
+China,Tengzhou,,1548817,35.086,117.1244
+Japan,Kobe,,1544200,34.68,135.17
+China,Qiqihar,,1540089,47.345,123.99
+China,Pizhou,,1539922,34.3964,117.9107
+Japan,Fukuoka,,1538681,33.595,130.41
+China,Taian,,1538211,36.2,117.1201
+Brazil,Recife,,1537704,-8.0756,-34.9156
+Saudi Arabia,Makkah,,1534731,21.43,39.82
+China,Datong,,1526744,40.08,113.3
+Republic of Korea,Gwangju,Kwangchu,1521704,35.171,126.9104
+Russian Federation,Novosibirsk,,1511369,55.03,82.96
+Uganda,Kampala,,1507114,0.3167,32.5833
+United States of America,San Antonio,TX,1492510,29.4722,-98.5247
+China,Taizhou,Zhejiang,1491963,32.4904,119.9
+China,Luoyang,,1491680,34.68,112.4701
+Philippines,Caloocan,Caloocan,1489040,14.6492,120.9826
+Zimbabwe,Harare,,1485231,-17.8178,31.0447
+China,Jinjiang,,1479259,24.799,118.556
+Mongolia,Ulaanbaatar,,1477174,47.9167,106.9166
+Burkina Faso,Ouagadougou,,1475223,12.3703,-1.5247
+Japan,Kawasaki,,1475213,35.53,139.705
+Japan,Kyoto,,1475183,35.03,135.75
+India,Indore,,1474968,22.7151,75.865
+China,Xiantao,,1474078,30.3704,113.44
+Germany,Munich,,1456039,48.1299,11.575
+Indonesia,Palembang,,1455284,-2.98,104.75
+Ukraine,Kharkiv,,1449871,50,36.25
+China,Xinghua,,1441659,NA,NA
+India,Bhopal,,1437354,23.25,77.41
+China,Fushun,,1434447,41.8654,123.87
+Mexico,Puebla-Tlaxcala,,1434062,19.05,-98.2
+Brazil,Belo Horizonte,,1433244,-19.915,-43.915
+China,Shangqiu,,1428983,34.4504,115.65
+China,Wuxi,,1425766,31.58,120.3
+China,Hechuan,,1420520,30.1,106.29
+China,Wujin,,1420204,31.6567,119.9365
+China,Guigang,,1413128,23.106,109.594
+China,Jianyang,Sichuan,1412523,30.4042,104.5226
+Brazil,Porto Alegre,,1409351,-30.05,-51.2
+China,Huhehaote,,1406955,40.8252,111.6932
+United States of America,San Diego,CA,1406630,32.8312,-117.1226
+India,Ludhiana,,1398467,30.9278,75.8723
+China,Neijiang,,1391931,29.5804,105.05
+Russian Federation,Yekaterinburg,,1386909,56.85,60.6
+China,Nanan,,1385276,24.972,118.3838
+Uruguay,Montevideo,,1382778,-34.858,-56.1711
+China,Weifang,,1380300,36.7204,119.1001
+China,Daqing,,1380051,46.58,125
+Serbia,Belgrade,Beograd,1378682,44.8186,20.468
+China,Tongzhou,,1371498,39.80786,116.7307
+India,Patna,,1366444,25.625,85.13
+Jordan,Az Zarqa,,1364878,32.07,36.1
+China,Rugao,,1362533,32.272,120.59
+China,Guiping,,1359035,NA,NA
+Italy,Milan,,1358871,45.47,9.205
+China,Huainan,,1357228,32.63,116.98
+China,Suining,,1355388,30.5333,105.5333
+China,Bozhou,,1351939,33.835,115.772
+China,Zhanjiang,,1350665,21.2,110.38
+China,Changde,,1346739,29.03,111.68
+China,SuzhouJiangsu,Jiangsu,1344709,31.3005,120.62
+China,Xintai,,1344395,35.8918,117.7676
+Indonesia,Ujungpandang,Ujung Pandang,1338663,-5.14,119.432
+Canada,Calgary,,1336274,51.083,-114.08
+China,Handan,,1329734,36.58,114.48
+China,Jiangjin,,1322890,29.2076,106.2492
+China,Pingdu,,1321975,36.7904,119.94
+Mexico,Juárez,,1321004,-37.6655,-59.8
+United States of America,Dallas,TX,1317929,32.7937,-96.7662
+China,Jiangyin,,1315472,31.9178,120.2985
+China,Liuyang,,1307572,28.1868,113.6423
+India,Vadodara,,1306227,22.31,73.18
+Australia,Adelaide,,1305811,-34.935,138.6
+United Republic of Tanzania,Zanzibar,,1303569,-6.16,39.2
+Mexico,Coatzacoalcos,,1301452,18.1204,-94.42
+Mexico,Tijuana,,1300983,32.5,-117.08
+Brazil,Goiânia,,1296324,-16.72,-49.3
+Czechia,Praha,,1294513,50.0833,14.466
+China,Xuanwei,,1292825,26.2442,104.1313
+China,Dengzhou,,1290656,32.6804,112.08
+Russian Federation,Nizhny Novgorod,,1289477,56.333,44.0001
+China,Heze,,1280031,35.23,115.45
+India,Agra,,1275134,27.1704,78.015
+China,Shantou,,1270112,23.37,116.67
+China,Leizhou,,1268298,20.9394,110.0807
+China,Yongcheng,,1264607,33.9302,116.4061
+Japan,Saitama,,1263979,35.9,139.65
+Venezuela (Bolivarian Republic of),Valencia,,1263888,10.23,-67.98
+India,Thane,,1262551,19.21,72.9774
+China,Xinyang,,1255750,32.1304,114.07
+China,Luzhou,,1252884,28.88,105.38
+China,Changshu,,1239637,31.6441,120.7494
+Mexico,León,,1238962,21.15,-101.7
+Bulgaria,Sofia,,1238438,42.6833,23.3167
+China,Taixing,,1235454,32.1586,120.0477
+China,Laiwu,,1233525,36.2004,117.66
+China,Xiaoshan,,1233348,30.1648,120.2704
+China,Yiyang,,1228881,28.6004,112.33
+China,Liuzhou,,1220392,24.28,109.25
+China,Gaozhou,,1219132,21.9089,110.854
+China,Fengcheng,Jiangxi,1216412,28.2004,115.77
+China,Cixi,,1214537,30.1869,121.2663
+United Kingdom of Great Britain and Northern Ireland,Glasgow,,1209143,55.8744,-4.2507
+China,Ruian,,1207788,27.7759,120.6553
+China,Lianjiang,,1205764,NA,NA
+Iran (Islamic Republic of),Qom,,1201158,34.65,50.95
+China,Huaian,,1200679,33.547,119.112
+Japan,Hiroshima,,1194034,34.3878,132.4429
+India,Kalyan,,1193512,19.2502,73.1602
+China,Quanzhou,,1192286,24.9,118.58
+China,Bazhong,,1185862,31.8577,106.7472
+Iran (Islamic Republic of),Ahwaz,,1184788,31.28,48.72
+China,Haicheng,,1181130,40.8577,122.7512
+China,Xishan,,1181073,31.5853,120.3583
+China,Leiyang,,1180235,26.4142,112.8512
+China,Jinzhou,,1177150,41.1204,121.1
+China,Fuqing,,1174540,25.7194,119.3737
+Georgia,Tbilisi,,1172700,41.725,44.7908
+Russian Federation,Samara,Samarskaya oblast,1170381,53.195,50.1513
+Russian Federation,Kazan,,1168745,55.7499,49.1263
+Algeria,Wahran,Oran,1165687,35.71,-0.62
+Republic of Korea,Ulsan,,1165646,35.5467,129.317
+China,Lufeng,,1164767,22.9261,115.6495
+China,Dongtai,,1164653,32.8457,120.3064
+China,Yixing,,1164275,31.364,119.8231
+China,Mianyang,,1162962,31.47,104.77
+China,Wenling,,1162783,28.403,121.3576
+China,Leqing,,1162765,28.1084,120.9751
+Russian Federation,Omsk,,1158627,54.99,73.4
+Honduras,Tegucigalpa,,1157509,14.102,-87.2175
+Argentina,Córdoba,,1157507,-31.4,-64.1823
+China,Yushu,,1155670,32.99,97.009
+China,Chifeng,,1153723,42.27,118.95
+Russian Federation,Chelyabinsk,,1149829,55.155,61.4387
+China,Rizhao,,1148190,35.4304,119.45
+China,Tianshui,,1146986,34.6,105.92
+China,Huzhou,,1145414,30.8704,120.1
+Mexico,Zapopan,,1142483,20.6665,-103.4187
+Mexico,Manzanillo,,1137465,19.0496,-104.3231
+Mexico,Monterrey,,1135512,25.67,-100.33
+China,Macheng,,1129047,31.18,115.03
+China,Wuxian,,1128429,NA,NA
+China,Bijie,,1128230,27.3,105.3006
+China,Yuzhou,,1122669,34.1495,113.4795
+China,Leshan,,1120158,29.5671,103.7333
+Argentina,La Matanza,,1120088,-34.6793,-58.5619
+Armenia,Yerevan,,1116648,40.1812,44.5136
+Bolivia (Plurinational State of),Santa Cruz,,1113582,-17.7539,-63.226
+China,Jimo,,1111202,NA,NA
+Colombia,Barranquilla,,1109067,10.96,-74.8
+China,Dingzhou,,1107903,38.5004,115
+Mexico,Netzahualcóyotl,,1104585,19.3936,-98.9908
+China,Zoucheng,,1101003,35.3964,117.0037
+Saudi Arabia,Medina,,1100093,24.5,39.58
+Russian Federation,Rostov-Na-Donu,,1100091,47.2246,39.7076
+Senegal,Pikine,,1096830,NA,NA
+China,Anqiu,,1096782,30.5,117.05
+China,Guangan,,1093103,30.4465,106.6398
+India,Varanasi,,1091918,25.33,83
+United Kingdom of Great Britain and Northern Ireland,Birmingham,,1085810,52.475,-1.92
+Japan,Sendai,,1082159,38.2871,141.0217
+China,Shouguang,,1081991,36.8757,118.7837
+China,Changzhou,,1081845,31.78,119.97
+Germany,Köln,,1080394,50.93,6.95
+India,Nashik,,1077236,20.0039,73.79056
+Senegal,Dakar,,1075582,14.7158,-17.4731
+Russian Federation,Ufa,,1075007,54.79,56.04
+China,Zhuji,,1070675,29.7312,120.236
+India,Meerut,,1068772,29.0004,77.7
+China,Hanchuan,,1057396,30.654,113.837
+China,Qidong,,1057073,31.768,121.663
+Sierra Leone,Freetown,,1055964,8.47,-13.2342
+India,Faridabad,,1055938,28.4333,77.3167
+Kazakhstan,Astana,,1054480.5,51.1811,71.4278
+China,Zaoyang,,1054374,32.109,112.778
+Ukraine,Dnepropetrovsk,,1053951,48.502,34.827
+China,Zhucheng,,1053695,35.99,119.3801
+China,Jiangdu,,1053023,32.445,119.566
+China,Xiangcheng,,1052468,34.275,108.895
+China,Zigong,,1051384,29.4,104.78
+China,Jining,Shandong,1050522,35.4004,116.55
+China,Beiliu,,1049035,39.9289,116.3883
+China,Gongzhuling,,1041735,43.49,124.82
+China,Qinzhou,,1035504,21.9504,108.62
+United States of America,San Jose,CA,1026908,37.3018,-121.8485
+Niger,Niamey,,1026848,13.5167,2.1167
+Egypt,Shubra-El-Khema,,1025569,30.13,31.26
+China,Ezhou,,1023285,30.386,114.894
+Guatemala,Guatemala,,1022001,14.6211,-90.527
+China,Zhongxiang,,1021998,24.965,121.2168
+Russian Federation,Volgograd,,1021215,48.71,44.5
+China,Ziyang,,1016034,25.97,113.4
+Pakistan,Islamabad,,1014825,33.7,73.1666
+China,Mudanjiang,,1014206,44.575,129.59
+India,Pimpri Chinchwad,,1012472,18.633,73.794
+Japan,Kitakyushu,,1011471,33.8704,130.82
+Ukraine,Odessa,,1010298,46.49,30.71
+China,Huazhou,,1007796,21.66,110.6345
+India,Haora,,1007532,22.5804,88.3299
+Canada,Ottawa,,1007501,45.4167,-75.7
+Ukraine,Donetsk,,1007440,48,37.83
+China,Fuzhou,Jiangxi,1007391,26.08,119.3
+Russian Federation,Perm,,1007272,58,56.25
+Russian Federation,Krasnoyarsk,,1006856,56.014,92.866
+Canada,Edmonton,,1004947,53.55,-113.5
+Italy,Napoli,,1004500,40.84,14.245
+Pakistan,Quetta,,1001205,30.22,67.025
+Venezuela (Bolivarian Republic of),Barquisimeto,,1000632,10.05,-69.3

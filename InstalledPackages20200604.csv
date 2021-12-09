@@ -1,0 +1,505 @@
+"","Package","LibPath","Version","Priority","Depends","Imports","LinkingTo","Suggests","Enhances","License","License_is_FOSS","License_restricts_use","OS_type","MD5sum","NeedsCompilation","Built"
+"anytime","anytime","\\uniwa.uwa.edu.au/userhome/Staff8/00028958/My Documents/R/win-library/3.6","0.3.7",NA,"R (>= 3.2.0)","Rcpp (>= 0.12.9)","Rcpp (>= 0.12.9), BH","tinytest (>= 1.0.0), gettz",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","3.6.2"
+"ape","ape","\\uniwa.uwa.edu.au/userhome/Staff8/00028958/My Documents/R/win-library/3.6","5.3",NA,"R (>= 3.2.0)","nlme, lattice, graphics, methods, stats, tools, utils,
+parallel, Rcpp (>= 0.12.0)","Rcpp","gee, expm, igraph",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","3.6.1"
+"audio","audio","\\uniwa.uwa.edu.au/userhome/Staff8/00028958/My Documents/R/win-library/3.6","0.1-6",NA,"R (>= 2.0.0)",NA,NA,NA,NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","3.6.0"
+"beepr","beepr","\\uniwa.uwa.edu.au/userhome/Staff8/00028958/My Documents/R/win-library/3.6","1.3",NA,NA,"stringr (>= 1.0.0), audio",NA,NA,NA,"GPL-3",NA,NA,NA,NA,"no","3.6.1"
+"coin","coin","\\uniwa.uwa.edu.au/userhome/Staff8/00028958/My Documents/R/win-library/3.6","1.3-1",NA,"R (>= 3.4.0), survival","methods, parallel, stats, stats4, utils, libcoin (>= 1.0-0),
+matrixStats (>= 0.54.0), modeltools (>= 0.2-9), mvtnorm (>=
+1.0-5), multcomp","libcoin (>= 1.0-0)","xtable, e1071, vcd, TH.data (>= 1.0-7)",NA,"GPL-2",NA,NA,NA,NA,"yes","3.6.2"
+"DescTools","DescTools","\\uniwa.uwa.edu.au/userhome/Staff8/00028958/My Documents/R/win-library/3.6","0.99.32",NA,"base, stats, R (>= 3.6.0)","graphics, grDevices, methods, MASS, utils, boot, mvtnorm,
+expm, Rcpp (>= 0.12.10)","Rcpp, BH","RDCOMClient, tcltk, VGAM",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","3.6.2"
+"EMT","EMT","\\uniwa.uwa.edu.au/userhome/Staff8/00028958/My Documents/R/win-library/3.6","1.1",NA,NA,NA,NA,NA,NA,"GPL",NA,NA,NA,NA,NA,"3.6.0"
+"expm","expm","\\uniwa.uwa.edu.au/userhome/Staff8/00028958/My Documents/R/win-library/3.6","0.999-4",NA,"Matrix","methods",NA,"RColorBrewer, sfsmisc, Rmpfr",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","3.6.2"
+"gvlma","gvlma","\\uniwa.uwa.edu.au/userhome/Staff8/00028958/My Documents/R/win-library/3.6","1.0.0.3",NA,"R (>= 2.1.1)",NA,NA,NA,NA,"GPL",NA,NA,NA,NA,"no","3.6.0"
+"hexbin","hexbin","\\uniwa.uwa.edu.au/userhome/Staff8/00028958/My Documents/R/win-library/3.6","1.28.1",NA,"R (>= 2.0.1), methods","lattice, grid, graphics, grDevices, stats, utils",NA,"marray, affy, Biobase, limma, knitr",NA,"GPL-2",NA,NA,NA,NA,"yes","3.6.3"
+"jomo","jomo","\\uniwa.uwa.edu.au/userhome/Staff8/00028958/My Documents/R/win-library/3.6","2.6-10",NA,NA,"stats, lme4, survival, MASS, ordinal",NA,"mitml",NA,"GPL-2",NA,NA,NA,NA,"yes","3.6.1"
+"jpeg","jpeg","\\uniwa.uwa.edu.au/userhome/Staff8/00028958/My Documents/R/win-library/3.6","0.1-8.1",NA,"R (>= 2.9.0)",NA,NA,NA,NA,"GPL-2 | GPL-3",NA,NA,NA,NA,"yes","3.6.1"
+"latticeExtra","latticeExtra","\\uniwa.uwa.edu.au/userhome/Staff8/00028958/My Documents/R/win-library/3.6","0.6-29",NA,"R (>= 3.6.0), lattice","grid, stats, utils, grDevices, png, jpeg, RColorBrewer",NA,"maps, mapproj, deldir, tripack, quantreg, zoo, MASS, mgcv",NA,"GPL (>= 2)",NA,NA,NA,NA,"no","3.6.2"
+"lazyeval","lazyeval","\\uniwa.uwa.edu.au/userhome/Staff8/00028958/My Documents/R/win-library/3.6","0.2.2",NA,"R (>= 3.1.0)",NA,NA,"knitr, rmarkdown (>= 0.2.65), testthat, covr",NA,"GPL-3",NA,NA,NA,NA,"yes","3.6.1"
+"lctools","lctools","\\uniwa.uwa.edu.au/userhome/Staff8/00028958/My Documents/R/win-library/3.6","0.2-7",NA,"R (>= 3.5.0), reshape (>= 0.8.8), weights (>= 1.0), pscl (>=
+1.5.2), MASS (>= 7.3-51.3)",NA,NA,"knitr, sp",NA,"GPL (>= 2)",NA,NA,NA,NA,"no","3.6.1"
+"libcoin","libcoin","\\uniwa.uwa.edu.au/userhome/Staff8/00028958/My Documents/R/win-library/3.6","1.0-5",NA,"R (>= 3.4.0)","stats, mvtnorm","mvtnorm","coin",NA,"GPL-2",NA,NA,NA,NA,"yes","3.6.2"
+"lme4","lme4","\\uniwa.uwa.edu.au/userhome/Staff8/00028958/My Documents/R/win-library/3.6","1.1-21",NA,"R (>= 3.2.0), Matrix (>= 1.2-1), methods, stats","graphics, grid, splines, utils, parallel, MASS, lattice, boot,
+nlme (>= 3.1-123), minqa (>= 1.1.15), nloptr (>= 1.0.4)","Rcpp (>= 0.10.5), RcppEigen","knitr, rmarkdown, PKPDmodels, MEMSS, testthat (>= 0.8.1),
+ggplot2, mlmRev, optimx (>= 2013.8.6), gamm4, pbkrtest, HSAUR2,
+numDeriv, car, dfoptim",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","3.6.1"
+"lmtest","lmtest","\\uniwa.uwa.edu.au/userhome/Staff8/00028958/My Documents/R/win-library/3.6","0.9-37",NA,"R (>= 3.0.0), stats, zoo","graphics",NA,"car, strucchange, sandwich, dynlm, stats4, survival, AER",NA,"GPL-2 | GPL-3",NA,NA,NA,NA,"yes","3.6.2"
+"lsmeans","lsmeans","\\uniwa.uwa.edu.au/userhome/Staff8/00028958/My Documents/R/win-library/3.6","2.30-0",NA,"emmeans (>= 1.3), methods, R (>= 3.2)",NA,NA,"",NA,"GPL-2 | GPL-3",NA,NA,NA,NA,"no","3.6.2"
+"magrittr","magrittr","\\uniwa.uwa.edu.au/userhome/Staff8/00028958/My Documents/R/win-library/3.6","1.5",NA,NA,NA,NA,"testthat, knitr",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.6.1"
+"manipulateWidget","manipulateWidget","\\uniwa.uwa.edu.au/userhome/Staff8/00028958/My Documents/R/win-library/3.6","0.10.0",NA,NA,"shiny (>= 1.0.3), miniUI, htmltools, htmlwidgets, knitr,
+methods, tools, base64enc, grDevices, codetools, webshot",NA,"dygraphs, leaflet, plotly, xts, rmarkdown, testthat, covr",NA,"GPL (>= 2) | file LICENSE",NA,NA,NA,NA,"no","3.6.1"
+"maptools","maptools","\\uniwa.uwa.edu.au/userhome/Staff8/00028958/My Documents/R/win-library/3.6","0.9-9",NA,"R (>= 2.10), sp (>= 1.0-11)","foreign (>= 0.8), methods, grid, lattice, stats, utils,
+grDevices",NA,"rgeos (>= 0.1-8), spatstat (>= 1.60), PBSmapping, maps,
+RColorBrewer, raster, polyclip, spatstat.utils","gpclib, RArcInfo","GPL (>= 2)",NA,NA,NA,NA,"yes","3.6.2"
+"markdown","markdown","\\uniwa.uwa.edu.au/userhome/Staff8/00028958/My Documents/R/win-library/3.6","1.1",NA,"R (>= 2.11.1)","utils, xfun, mime (>= 0.3)",NA,"knitr, RCurl",NA,"GPL-2",NA,NA,NA,NA,"yes","3.6.1"
+"matrixStats","matrixStats","\\uniwa.uwa.edu.au/userhome/Staff8/00028958/My Documents/R/win-library/3.6","0.55.0",NA,"R (>= 2.12.0)",NA,NA,"base64enc, ggplot2, knitr, microbenchmark, R.devices, R.rsp",NA,"Artistic-2.0",NA,NA,NA,NA,"yes","3.6.2"
+"mice","mice","\\uniwa.uwa.edu.au/userhome/Staff8/00028958/My Documents/R/win-library/3.6","3.7.0",NA,"methods, R (>= 2.10.0), lattice","broom, dplyr, grDevices, graphics, MASS, mitml, nnet,
+parallel, Rcpp, rlang, rpart, splines, stats, survival, utils","Rcpp","AGD, gamlss, lme4, mitools, nlme, pan, randomForest, Zelig,
+BSDA, knitr, rmarkdown, testthat, HSAUR3, micemd, miceadds,
+tidyr",NA,"GPL-2 | GPL-3",NA,NA,NA,NA,"yes","3.6.2"
+"mitml","mitml","\\uniwa.uwa.edu.au/userhome/Staff8/00028958/My Documents/R/win-library/3.6","0.3-7",NA,NA,"pan, jomo, haven, grDevices, graphics, stats, utils",NA,"mice, miceadds, Amelia, lme4, nlme, geepack, survival, knitr,
+rmarkdown",NA,"GPL (>= 2)",NA,NA,NA,NA,"no","3.6.1"
+"modeltools","modeltools","\\uniwa.uwa.edu.au/userhome/Staff8/00028958/My Documents/R/win-library/3.6","0.2-22",NA,"stats, stats4","methods",NA,NA,NA,"GPL-2",NA,NA,NA,NA,"no","3.6.0"
+"nycflights13","nycflights13","\\uniwa.uwa.edu.au/userhome/Staff8/00028958/My Documents/R/win-library/3.6","1.0.1",NA,"R (>= 3.2)","tibble",NA,"dplyr",NA,"CC0",NA,NA,NA,NA,"no","3.6.3"
+"ordinal","ordinal","\\uniwa.uwa.edu.au/userhome/Staff8/00028958/My Documents/R/win-library/3.6","2019.12-10",NA,"R (>= 2.13.0), stats, methods","ucminf, MASS, Matrix, numDeriv",NA,"lme4, nnet, xtable, testthat (>= 0.8), tools",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","3.6.2"
+"pan","pan","\\uniwa.uwa.edu.au/userhome/Staff8/00028958/My Documents/R/win-library/3.6","1.6",NA,NA,NA,NA,"mitools, lme4",NA,"GPL-3",NA,"no",NA,NA,"yes","3.6.1"
+"proj4","proj4","\\uniwa.uwa.edu.au/userhome/Staff8/00028958/My Documents/R/win-library/3.6","1.0-8.1",NA,"R (>= 2.0.0)",NA,NA,NA,NA,"GPL-2",NA,NA,NA,NA,"yes","3.6.1"
+"pscl","pscl","\\uniwa.uwa.edu.au/userhome/Staff8/00028958/My Documents/R/win-library/3.6","1.5.2",NA,NA,"MASS, datasets, grDevices, graphics, stats, utils",NA,"lattice, MCMCpack, car, lmtest, sandwich, zoo, coda, vcd,
+mvtnorm, mgcv",NA,"GPL-2",NA,NA,NA,NA,"yes","3.6.1"
+"rcompanion","rcompanion","\\uniwa.uwa.edu.au/userhome/Staff8/00028958/My Documents/R/win-library/3.6","2.3.25",NA,"R (>= 3.3.0)","stats (>= 3.3.0), graphics (>= 3.3.0), boot (>= 1.3-18),
+DescTools (>= 0.99.17), multcompView (>= 0.1-7), plyr (>=
+1.8.4), EMT (>= 1.1), coin (>= 1.1-2), lmtest (>= 0.9-34),
+nortest (>= 1.0-4)",NA,"FSA (>= 0.8.9)",NA,"GPL-3",NA,NA,NA,NA,"no","3.6.2"
+"reshape","reshape","\\uniwa.uwa.edu.au/userhome/Staff8/00028958/My Documents/R/win-library/3.6","0.8.8",NA,"R (>= 2.6.1)","plyr",NA,NA,NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","3.6.1"
+"rgl","rgl","\\uniwa.uwa.edu.au/userhome/Staff8/00028958/My Documents/R/win-library/3.6","0.100.30",NA,"R (>= 3.2.0)","graphics, grDevices, stats, utils, htmlwidgets, htmltools,
+knitr, jsonlite (>= 0.9.20), shiny, magrittr, crosstalk,
+manipulateWidget (>= 0.9.0)",NA,"MASS, rmarkdown, deldir, orientlib, lattice, misc3d,
+rstudioapi, magick, plotrix (>= 3.7-3), tripack, interp,
+alphashape3d",NA,"GPL",NA,NA,NA,NA,"yes","3.6.2"
+"tinytex","tinytex","\\uniwa.uwa.edu.au/userhome/Staff8/00028958/My Documents/R/win-library/3.6","0.19",NA,NA,"xfun (>= 0.5)",NA,"testit, rstudioapi",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.6.2"
+"ucminf","ucminf","\\uniwa.uwa.edu.au/userhome/Staff8/00028958/My Documents/R/win-library/3.6","1.1-4",NA,NA,NA,NA,"numDeriv",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","3.6.0"
+"weights","weights","\\uniwa.uwa.edu.au/userhome/Staff8/00028958/My Documents/R/win-library/3.6","1.0",NA,"Hmisc, gdata, mice",NA,NA,NA,NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","3.6.2"
+"abind","abind","C:/Program Files/R/R-3.6.1/library","1.4-5",NA,"R (>= 1.5.0)","methods, utils",NA,NA,NA,"LGPL (>= 2)",NA,NA,NA,NA,"no","3.5.0"
+"acepack","acepack","C:/Program Files/R/R-3.6.1/library","1.4.1",NA,NA,NA,NA,"testthat",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","3.5.1"
+"addinslist","addinslist","C:/Program Files/R/R-3.6.1/library","0.3",NA,"R (>= 3.1.0)","curl, remotes, DT (>= 0.1), miniUI (>= 0.1), shiny (>=
+0.13.2), shinyjs (>= 0.6), rappdirs (>= 0.3.1), rmarkdown,
+rvest (>= 0.3.1), utils, xml2 (>= 0.1.2)",NA,NA,NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.5.3"
+"akima","akima","C:/Program Files/R/R-3.6.1/library","0.6-2",NA,"R (>= 2.0.0)","sp",NA,NA,NA,"ACM | file LICENSE",NA,"yes",NA,NA,"yes","3.5.1"
+"aplpack","aplpack","C:/Program Files/R/R-3.6.1/library","1.3.3",NA,"R (>= 3.0.0)",NA,NA,"tkrplot, jpeg, png, splines, utils, tcltk",NA,"GPL (>= 2)",NA,NA,NA,NA,"no","3.5.3"
+"arm","arm","C:/Program Files/R/R-3.6.1/library","1.10-1",NA,"R (>= 3.1.0), MASS, Matrix (>= 1.0), stats, lme4 (>= 1.0)","abind, coda, graphics, grDevices, methods, nlme, utils",NA,NA,NA,"GPL (>= 3)",NA,NA,NA,NA,"no","3.5.2"
+"askpass","askpass","C:/Program Files/R/R-3.6.1/library","1.1",NA,NA,"sys (>= 2.1)",NA,"testthat",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","3.5.3"
+"assertthat","assertthat","C:/Program Files/R/R-3.6.1/library","0.2.1",NA,NA,"tools",NA,"testthat, covr",NA,"GPL-3",NA,NA,NA,NA,"no","3.5.3"
+"astro","astro","C:/Program Files/R/R-3.6.1/library","1.2",NA,"MASS,plotrix",NA,NA,NA,NA,"GPL (>= 2)",NA,NA,NA,NA,"no","3.5.1"
+"backports","backports","C:/Program Files/R/R-3.6.1/library","1.1.4",NA,"R (>= 3.0.0)","utils",NA,NA,NA,"GPL-2",NA,NA,NA,NA,"yes","3.5.3"
+"base","base","C:/Program Files/R/R-3.6.1/library","3.6.1","base",NA,NA,NA,"methods",NA,"Part of R 3.6.1",NA,NA,NA,NA,NA,"3.6.1"
+"base64enc","base64enc","C:/Program Files/R/R-3.6.1/library","0.1-3",NA,"R (>= 2.9.0)",NA,NA,NA,"png","GPL-2 | GPL-3",NA,NA,NA,NA,"yes","3.5.0"
+"BH","BH","C:/Program Files/R/R-3.6.1/library","1.69.0-1",NA,NA,NA,NA,NA,NA,"BSL-1.0",NA,NA,NA,NA,"no","3.5.2"
+"bindr","bindr","C:/Program Files/R/R-3.6.1/library","0.1.1",NA,NA,NA,NA,"testthat",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.5.1"
+"bindrcpp","bindrcpp","C:/Program Files/R/R-3.6.1/library","0.2.2",NA,NA,"bindr (>= 0.1.1), Rcpp (>= 0.12.16)","plogr, Rcpp","testthat",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","3.5.1"
+"bitops","bitops","C:/Program Files/R/R-3.6.1/library","1.0-6",NA,NA,NA,NA,NA,NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","3.5.0"
+"boot","boot","C:/Program Files/R/R-3.6.1/library","1.3-22","recommended","R (>= 3.0.0), graphics, stats",NA,NA,"MASS, survival",NA,"Unlimited",NA,NA,NA,NA,"no","3.6.1"
+"brew","brew","C:/Program Files/R/R-3.6.1/library","1.0-6",NA,NA,NA,NA,NA,NA,"GPL-2",NA,NA,NA,NA,NA,"3.5.2"
+"broom","broom","C:/Program Files/R/R-3.6.1/library","0.5.2",NA,"R (>= 3.1)","backports, dplyr, generics (>= 0.0.2), methods, nlme, purrr,
+reshape2, stringr, tibble, tidyr",NA,"AER, akima, AUC, bbmle, betareg, biglm, binGroup, boot, brms,
+btergm, car, caret, coda, covr, e1071, emmeans, ergm, gam (>=
+1.15), gamlss, gamlss.data, gamlss.dist, geepack, ggplot2,
+glmnet, gmm, Hmisc, irlba, joineRML, Kendall, knitr, ks,
+Lahman, lavaan, lfe, lme4, lmodel2, lmtest, lsmeans, maps,
+maptools, MASS, Matrix, mclust, mgcv, muhaz, multcomp, network,
+nnet, orcutt (>= 2.2), ordinal, plm, plyr, poLCA, psych,
+quantreg, rgeos, rmarkdown, robust, rsample, rstan, rstanarm,
+sp, speedglm, statnet.common, survey, survival, testthat,
+tseries, xergm, zoo",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.5.3"
+"BWStest","BWStest","C:/Program Files/R/R-3.6.1/library","0.2.2",NA,NA,"memoise, Rcpp (>= 0.12.3)","Rcpp","testthat",NA,"LGPL-3",NA,NA,NA,NA,"yes","3.5.3"
+"callr","callr","C:/Program Files/R/R-3.6.1/library","3.3.1",NA,NA,"processx (>= 3.4.0), R6, utils",NA,"cliapp, covr, crayon, knitr, pingr, ps, rmarkdown, rprojroot,
+spelling, testthat, tibble, withr",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.5.3"
+"car","car","C:/Program Files/R/R-3.6.1/library","3.0-3",NA,"R (>= 3.5.0), carData (>= 3.0-0)","abind, MASS, mgcv, nnet, pbkrtest (>= 0.4-4), quantreg,
+grDevices, utils, stats, graphics, maptools, rio, lme4, nlme",NA,"alr4, boot, coxme, leaps, lmtest, Matrix, MatrixModels, rgl
+(>= 0.93.960), sandwich, SparseM, survival, survey",NA,"GPL (>= 2)",NA,NA,NA,NA,"no","3.5.3"
+"carData","carData","C:/Program Files/R/R-3.6.1/library","3.0-2",NA,"R (>= 3.0)",NA,NA,NA,NA,"GPL (>= 2)",NA,NA,NA,NA,"no","3.5.2"
+"caTools","caTools","C:/Program Files/R/R-3.6.1/library","1.17.1.2",NA,"R (>= 2.2.0)","bitops",NA,"MASS, rpart",NA,"GPL-3",NA,NA,NA,NA,"yes","3.5.3"
+"cellranger","cellranger","C:/Program Files/R/R-3.6.1/library","1.1.0",NA,"R (>= 3.0.0)","rematch, tibble",NA,"covr, testthat (>= 1.0.0), knitr, rmarkdown",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.5.1"
+"checkmate","checkmate","C:/Program Files/R/R-3.6.1/library","1.9.4",NA,"R (>= 3.0.0)","backports (>= 1.1.0), utils",NA,"R6, bit, fastmatch, data.table (>= 1.9.8), devtools, ggplot2,
+knitr, magrittr, microbenchmark, rmarkdown, testthat (>=
+0.11.0), tibble",NA,"BSD_3_clause + file LICENSE",NA,NA,NA,NA,"yes","3.5.3"
+"chron","chron","C:/Program Files/R/R-3.6.1/library","2.3-53",NA,"R (>= 2.12.0)","graphics, stats",NA,"scales, ggplot2","zoo","GPL-2",NA,NA,NA,NA,"yes","3.5.3"
+"class","class","C:/Program Files/R/R-3.6.1/library","7.3-15","recommended","R (>= 3.0.0), stats, utils","MASS",NA,NA,NA,"GPL-2 | GPL-3",NA,NA,NA,NA,"yes","3.6.1"
+"classInt","classInt","C:/Program Files/R/R-3.6.1/library","0.4-1",NA,"R (>= 2.2)","grDevices, stats, graphics, e1071, class, KernSmooth",NA,"spData (>= 0.2.6.2), units",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","3.5.3"
+"cli","cli","C:/Program Files/R/R-3.6.1/library","1.1.0",NA,"R (>= 2.10)","assertthat, crayon (>= 1.3.4), methods, utils",NA,"covr, fansi, mockery, testthat, webshot, withr",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.5.3"
+"clipr","clipr","C:/Program Files/R/R-3.6.1/library","0.7.0",NA,NA,"utils",NA,"covr, knitr, rmarkdown, rstudioapi (>= 0.5), testthat (>=
+2.0.0)",NA,"GPL-3",NA,NA,NA,NA,"no","3.5.3"
+"clisymbols","clisymbols","C:/Program Files/R/R-3.6.1/library","1.2.0",NA,NA,NA,NA,"testthat",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.5.3"
+"cluster","cluster","C:/Program Files/R/R-3.6.1/library","2.1.0","recommended","R (>= 3.3.0)","graphics, grDevices, stats, utils",NA,"MASS, Matrix",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","3.6.1"
+"coda","coda","C:/Program Files/R/R-3.6.1/library","0.19-3",NA,"R (>= 2.14.0)","lattice",NA,NA,NA,"GPL (>= 2)",NA,NA,NA,NA,"no","3.5.3"
+"codetools","codetools","C:/Program Files/R/R-3.6.1/library","0.2-16","recommended","R (>= 2.1)",NA,NA,NA,NA,"GPL",NA,NA,NA,NA,"no","3.6.1"
+"colorspace","colorspace","C:/Program Files/R/R-3.6.1/library","1.4-1",NA,"R (>= 3.0.0), methods","graphics, grDevices, stats",NA,"datasets, utils, KernSmooth, MASS, kernlab, mvtnorm, vcd,
+tcltk, shiny, shinyjs, ggplot2, dplyr, scales, grid, png, jpeg,
+knitr, rmarkdown, RColorBrewer, rcartocolor, scico, viridis,
+wesanderson",NA,"BSD_3_clause + file LICENSE",NA,NA,NA,NA,"yes","3.5.3"
+"colourpicker","colourpicker","C:/Program Files/R/R-3.6.1/library","1.0",NA,"R (>= 3.1.0)","ggplot2, htmltools, htmlwidgets (>= 0.7), jsonlite, miniUI (>=
+0.1.1), shiny (>= 0.11.1), shinyjs, utils",NA,"knitr (>= 1.7), rmarkdown, rstudioapi (>= 0.5)",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.5.3"
+"combinat","combinat","C:/Program Files/R/R-3.6.1/library","0.0-8",NA,NA,NA,NA,NA,NA,"GPL-2",NA,NA,NA,NA,NA,"3.5.0"
+"commonmark","commonmark","C:/Program Files/R/R-3.6.1/library","1.7",NA,NA,NA,NA,"curl, testthat, xml2",NA,"BSD_2_clause + file LICENSE",NA,NA,NA,NA,"yes","3.5.3"
+"compiler","compiler","C:/Program Files/R/R-3.6.1/library","3.6.1","base",NA,NA,NA,NA,NA,"Part of R 3.6.1",NA,NA,NA,NA,NA,"3.6.1"
+"crayon","crayon","C:/Program Files/R/R-3.6.1/library","1.3.4",NA,NA,"grDevices, methods, utils",NA,"mockery, rstudioapi, testthat, withr",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.5.1"
+"crosstalk","crosstalk","C:/Program Files/R/R-3.6.1/library","1.0.0",NA,NA,"htmltools (>= 0.3.5), jsonlite, lazyeval, R6, shiny (>= 0.11),
+ggplot2",NA,NA,NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.5.1"
+"curl","curl","C:/Program Files/R/R-3.6.1/library","4.0",NA,"R (>= 3.0.0)",NA,NA,"askpass, spelling, testthat (>= 1.0.0), knitr, jsonlite,
+rmarkdown, magrittr, httpuv (>= 1.4.4), webutils",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","3.5.3"
+"data.table","data.table","C:/Program Files/R/R-3.6.1/library","1.12.2",NA,"R (>= 3.1.0)","methods",NA,"bit64, curl, R.utils, knitr, xts, nanotime, zoo",NA,"MPL-2.0 | file LICENSE",NA,NA,NA,NA,"yes","3.5.3"
+"DataExplorer","DataExplorer","C:/Program Files/R/R-3.6.1/library","0.8.0",NA,"R (>= 3.4)","data.table (>= 1.11), reshape2 (>= 1.4), scales (>= 1.0),
+ggplot2 (>= 2.2), gridExtra (>= 2.3), rmarkdown (>= 1.10),
+networkD3 (>= 0.4), stats, utils, tools, parallel",NA,"testthat, covr, knitr, jsonlite, nycflights13",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.5.3"
+"datasets","datasets","C:/Program Files/R/R-3.6.1/library","3.6.1","base",NA,NA,NA,NA,NA,"Part of R 3.6.1",NA,NA,NA,NA,NA,"3.6.1"
+"DBI","DBI","C:/Program Files/R/R-3.6.1/library","1.0.0",NA,"R (>= 3.0.0), methods",NA,NA,"blob, covr, hms, knitr, magrittr, rprojroot, rmarkdown,
+RSQLite (>= 1.1-2), testthat, xml2",NA,"LGPL (>= 2)",NA,NA,NA,NA,"no","3.5.2"
+"dbplyr","dbplyr","C:/Program Files/R/R-3.6.1/library","1.4.2",NA,"R (>= 3.1)","assertthat (>= 0.2.0), DBI (>= 1.0.0), dplyr (>= 0.8.0), glue
+(>= 1.2.0), methods, purrr (>= 0.2.5), R6 (>= 2.2.2), rlang (>=
+0.2.0), tibble (>= 1.4.2), tidyselect (>= 0.2.4), utils",NA,"bit64, covr, knitr, Lahman, nycflights13, RMariaDB (>=
+1.0.2), rmarkdown, RMySQL (>= 0.10.11), RPostgreSQL (>= 0.4.1),
+RSQLite (>= 2.1.0), testthat (>= 2.0.0), withr (>= 2.1.2)",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.5.3"
+"DEoptimR","DEoptimR","C:/Program Files/R/R-3.6.1/library","1.0-8",NA,NA,"stats",NA,NA,"robustbase","GPL (>= 2)",NA,NA,NA,NA,"no","3.5.0"
+"desc","desc","C:/Program Files/R/R-3.6.1/library","1.2.0",NA,"R (>= 3.1.0)","assertthat, utils, R6, crayon, rprojroot",NA,"covr, testthat, whoami, withr",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.5.3"
+"devtools","devtools","C:/Program Files/R/R-3.6.1/library","2.1.0",NA,"R (>= 3.0.2), usethis (>= 1.5.0)","callr, cli, digest, git2r (>= 0.23.0), httr (>= 0.4),
+jsonlite, memoise (>= 1.0.0), pkgbuild (>= 1.0.3), pkgload (>=
+1.0.2), rcmdcheck (>= 1.3.3), remotes (>= 2.1.0), roxygen2 (>=
+6.1.1), rstudioapi (>= 0.7), sessioninfo (>= 1.1.1), stats,
+testthat (>= 2.1.1), tools, utils, withr",NA,"BiocManager, bitops, covr (>= 3.2.0), crayon, curl (>= 0.9),
+evaluate, foghorn (>= 1.1.0), gmailr (> 0.7.0), knitr, lintr
+(>= 0.2.1), mockery, pingr, MASS, pkgdown, Rcpp (>= 0.10.0),
+rhub (>= 1.0.2), rmarkdown, rversions, spelling (>= 1.1),
+whisker",NA,"GPL (>= 2)",NA,NA,NA,NA,"no","3.5.3"
+"digest","digest","C:/Program Files/R/R-3.6.1/library","0.6.20",NA,"R (>= 3.1.0)",NA,NA,"tinytest, knitr, rmarkdown",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","3.5.3"
+"dplyr","dplyr","C:/Program Files/R/R-3.6.1/library","0.8.3",NA,"R (>= 3.2.0)","assertthat (>= 0.2.0), glue (>= 1.3.0), magrittr (>= 1.5),
+methods, pkgconfig, R6, Rcpp (>= 1.0.1), rlang (>= 0.4.0),
+tibble (>= 2.0.0), tidyselect (>= 0.2.5), utils","BH, plogr (>= 0.2.0), Rcpp (>= 1.0.1)","bit64, callr, covr, crayon (>= 1.3.4), DBI, dbplyr, dtplyr,
+ggplot2, hms, knitr, Lahman, lubridate, MASS, mgcv,
+microbenchmark, nycflights13, rmarkdown, RMySQL, RPostgreSQL,
+RSQLite, testthat, withr, broom, purrr, readr",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","3.5.3"
+"DT","DT","C:/Program Files/R/R-3.6.1/library","0.9",NA,NA,"htmltools (>= 0.3.6), htmlwidgets (>= 1.3), jsonlite (>=
+0.9.16), magrittr, crosstalk, promises",NA,"knitr (>= 1.8), rmarkdown, shiny (>= 1.1.0)",NA,"GPL-3 | file LICENSE",NA,NA,NA,NA,"no","3.5.3"
+"e1071","e1071","C:/Program Files/R/R-3.6.1/library","1.7-2",NA,NA,"graphics, grDevices, class, stats, methods, utils",NA,"cluster, mlbench, nnet, randomForest, rpart, SparseM, xtable,
+Matrix, MASS, slam",NA,"GPL-2 | GPL-3",NA,NA,NA,NA,"yes","3.5.3"
+"effects","effects","C:/Program Files/R/R-3.6.1/library","4.1-1",NA,"R (>= 3.5.0), carData","lme4, nnet, lattice, grid, colorspace, graphics, grDevices,
+stats, survey, utils, estimability",NA,"pbkrtest (>= 0.4-4), nlme, MASS, poLCA, heplots, splines,
+ordinal, car, knitr, betareg, alr4",NA,"GPL (>= 2)",NA,NA,NA,NA,"no","3.5.3"
+"effsize","effsize","C:/Program Files/R/R-3.6.1/library","0.7.6",NA,NA,NA,NA,"testthat",NA,"GPL-2",NA,NA,NA,NA,"no","3.5.3"
+"ellipsis","ellipsis","C:/Program Files/R/R-3.6.1/library","0.2.0.1",NA,"R (>= 3.1)","rlang (>= 0.3.0)",NA,"covr, testthat",NA,"GPL-3",NA,NA,NA,NA,"yes","3.5.3"
+"emmeans","emmeans","C:/Program Files/R/R-3.6.1/library","1.4.1",NA,"R (>= 3.2)","estimability (>= 1.3), graphics, methods, numDeriv, stats,
+utils, plyr, mvtnorm, xtable (>= 1.8-2)",NA,"bayesplot, biglm, brms, car, coda (>= 0.17), ggplot2,
+lattice, mediation, mgcv, multcomp, multcompView, nlme, ordinal
+(>= 2014.11-12), pbkrtest (>= 0.4-1), lme4, lmerTest (>=
+2.0.32), MASS, MuMIn, rsm, knitr, rmarkdown, scales, testthat","CARBayes, coxme, gee, geepack, MCMCglmm, MCMCpack, mice,
+nnet, pscl, rstanarm, sommer, survival","GPL-2 | GPL-3",NA,NA,NA,NA,"no","3.5.3"
+"estimability","estimability","C:/Program Files/R/R-3.6.1/library","1.3",NA,"stats",NA,NA,NA,NA,"GPL (>= 3)",NA,NA,NA,NA,"no","3.5.0"
+"evaluate","evaluate","C:/Program Files/R/R-3.6.1/library","0.14",NA,"R (>= 3.0.2)","methods",NA,"testthat, lattice, ggplot2",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.5.3"
+"fansi","fansi","C:/Program Files/R/R-3.6.1/library","0.4.0",NA,"R (>= 3.1.0)",NA,NA,"unitizer, knitr, rmarkdown",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","3.5.3"
+"fastICA","fastICA","C:/Program Files/R/R-3.6.1/library","1.2-2",NA,"R (>= 3.0.0)",NA,NA,"MASS",NA,"GPL-2 | GPL-3",NA,NA,NA,NA,"yes","3.5.3"
+"FNN","FNN","C:/Program Files/R/R-3.6.1/library","1.1.3",NA,"R (>= 3.0.0)",NA,NA,"chemometrics, mvtnorm",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","3.5.3"
+"forcats","forcats","C:/Program Files/R/R-3.6.1/library","0.4.0",NA,"R (>= 3.1)","ellipsis, magrittr, rlang, tibble",NA,"covr, ggplot2, testthat, readr, knitr, rmarkdown, dplyr",NA,"GPL-3",NA,NA,NA,NA,"no","3.5.3"
+"foreign","foreign","C:/Program Files/R/R-3.6.1/library","0.8-71","recommended","R (>= 3.0.0)","methods, utils, stats",NA,NA,NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","3.6.1"
+"formatR","formatR","C:/Program Files/R/R-3.6.1/library","1.7",NA,"R (>= 3.0.2)",NA,NA,"codetools, shiny, testit, rmarkdown, knitr",NA,"GPL",NA,NA,NA,NA,"no","3.5.3"
+"Formula","Formula","C:/Program Files/R/R-3.6.1/library","1.2-3",NA,"R (>= 2.0.0), stats",NA,NA,NA,NA,"GPL-2 | GPL-3",NA,NA,NA,NA,"no","3.5.0"
+"fs","fs","C:/Program Files/R/R-3.6.1/library","1.3.1",NA,"R (>= 3.1)","methods, Rcpp","Rcpp","testthat, covr, pillar (>= 1.0.0), crayon, rmarkdown, knitr,
+withr, spelling",NA,"GPL-3",NA,NA,NA,NA,"yes","3.5.3"
+"gdata","gdata","C:/Program Files/R/R-3.6.1/library","2.18.0",NA,"R (>= 2.3.0)","gtools, stats, methods, utils",NA,"RUnit",NA,"GPL-2",NA,NA,NA,NA,"no","3.5.3"
+"gdistance","gdistance","C:/Program Files/R/R-3.6.1/library","1.2-2",NA,"R (>= 3.2.0), raster (>= 1.9-19), methods, igraph (>= 0.7.0),
+Matrix","sp, stats",NA,NA,NA,"GPL (>= 2)",NA,NA,NA,NA,"no","3.5.1"
+"generics","generics","C:/Program Files/R/R-3.6.1/library","0.0.2",NA,"R (>= 3.1)","methods",NA,"covr, pkgload, testthat, tibble",NA,"GPL-2",NA,NA,NA,NA,"no","3.5.2"
+"geoR","geoR","C:/Program Files/R/R-3.6.1/library","1.7-5.2.1",NA,"R (>= 2.10), stats, methods","MASS, sp, splancs, RandomFields, graphics",NA,"scatterplot3d, lattice, tcltk, geoRglm",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","3.5.1"
+"geosphere","geosphere","C:/Program Files/R/R-3.6.1/library","1.5-10",NA,"R (>= 3.0.0)","sp",NA,"methods, raster",NA,"GPL (>= 3)",NA,NA,NA,NA,"yes","3.5.3"
+"ggfittext","ggfittext","C:/Program Files/R/R-3.6.1/library","0.8.1",NA,"R (>= 3.2.3)","grid (>= 3.1), stringi (>= 1.1.2), ggplot2 (>= 2.2.1), shades
+(>= 1.3.1)",NA,"knitr, rmarkdown, testthat, vdiffr, spelling",NA,"GPL-2",NA,NA,NA,NA,"no","3.5.3"
+"ggmap","ggmap","C:/Program Files/R/R-3.6.1/library","3.0.0",NA,"R (>= 3.1.0), ggplot2 (>= 2.2.0)","RgoogleMaps, png, plyr, rjson, jpeg, digest, scales, dplyr,
+bitops, grid, glue, httr, stringr, purrr, magrittr, tibble,
+tidyr",NA,"MASS, hexbin, testthat",NA,"GPL-2",NA,NA,NA,NA,"no","3.5.3"
+"ggplot2","ggplot2","C:/Program Files/R/R-3.6.1/library","3.2.1",NA,"R (>= 3.2)","digest, grDevices, grid, gtable (>= 0.1.1), lazyeval, MASS,
+mgcv, reshape2, rlang (>= 0.3.0), scales (>= 0.5.0), stats,
+tibble, viridisLite, withr (>= 2.0.0)",NA,"covr, dplyr, ggplot2movies, hexbin, Hmisc, knitr, lattice,
+mapproj, maps, maptools, multcomp, munsell, nlme, profvis,
+quantreg, rgeos, rmarkdown, rpart, sf (>= 0.7-3), svglite (>=
+1.2.0.9001), testthat (>= 0.11.0), vdiffr (>= 0.3.0)","sp","GPL-2 | file LICENSE",NA,NA,NA,NA,"no","3.5.3"
+"ggThemeAssist","ggThemeAssist","C:/Program Files/R/R-3.6.1/library","0.1.5",NA,"R (>= 3.0.0)","shiny (>= 0.13), miniUI (>= 0.1.1), rstudioapi (>= 0.5),
+ggplot2, formatR",NA,"extrafont",NA,"GPL-3",NA,NA,NA,NA,"no","3.5.3"
+"gh","gh","C:/Program Files/R/R-3.6.1/library","1.0.1",NA,NA,"ini, jsonlite, httr",NA,"covr, pingr, testthat",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.5.3"
+"git2r","git2r","C:/Program Files/R/R-3.6.1/library","0.26.1",NA,"R (>= 3.1)","graphics, utils",NA,"getPass",NA,"GPL-2",NA,NA,NA,NA,"yes","3.5.3"
+"glue","glue","C:/Program Files/R/R-3.6.1/library","1.3.1",NA,"R (>= 3.1)","methods",NA,"testthat, covr, magrittr, crayon, knitr, rmarkdown, DBI,
+RSQLite, R.utils, forcats, microbenchmark, rprintf, stringr,
+ggplot2, dplyr, withr",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","3.5.3"
+"gmp","gmp","C:/Program Files/R/R-3.6.1/library","0.5-13.5",NA,"R (>= 3.0.0)","methods",NA,"Rmpfr",NA,"GPL",NA,NA,NA,NA,"yes","3.5.3"
+"googlePolylines","googlePolylines","C:/Program Files/R/R-3.6.1/library","0.7.2",NA,"R (>= 3.3.0)","Rcpp (>= 0.12.13)","Rcpp, BH","covr, knitr, rmarkdown, sf, testthat",NA,"GPL-3",NA,NA,NA,NA,"yes","3.5.3"
+"googleway","googleway","C:/Program Files/R/R-3.6.1/library","2.7.1",NA,"R (>= 3.3.0)","jsonlite (>= 0.9.20), curl, htmlwidgets, htmltools, magrittr,
+shiny, jpeg, utils, jqr, viridisLite, scales, grDevices,
+googlePolylines (>= 0.7.1)",NA,"knitr, rmarkdown, testthat",NA,"GPL-3",NA,NA,NA,NA,"no","3.5.3"
+"graphics","graphics","C:/Program Files/R/R-3.6.1/library","3.6.1","base",NA,"grDevices",NA,NA,NA,"Part of R 3.6.1",NA,NA,NA,NA,"yes","3.6.1"
+"grDevices","grDevices","C:/Program Files/R/R-3.6.1/library","3.6.1","base",NA,NA,NA,"KernSmooth",NA,"Part of R 3.6.1",NA,NA,NA,NA,"yes","3.6.1"
+"grid","grid","C:/Program Files/R/R-3.6.1/library","3.6.1","base",NA,"grDevices, utils",NA,"lattice",NA,"Part of R 3.6.1",NA,NA,NA,NA,"yes","3.6.1"
+"gridExtra","gridExtra","C:/Program Files/R/R-3.6.1/library","2.3",NA,NA,"gtable, grid, grDevices, graphics, utils",NA,"ggplot2, egg, lattice, knitr, testthat",NA,"GPL (>= 2)",NA,NA,NA,NA,"no","3.5.1"
+"gstat","gstat","C:/Program Files/R/R-3.6.1/library","2.0-2",NA,"R (>= 2.10)","utils, stats, graphics, methods, lattice, sp (>= 0.9-72), zoo,
+spacetime (>= 1.0-0), FNN",NA,"fields, maps, mapdata, maptools, rgdal (>= 0.5.2), rgeos, sf
+(>= 0.7-2), stars (>= 0.3-0), xts, raster",NA,"GPL (>= 2.0)",NA,NA,NA,NA,"yes","3.5.3"
+"gtable","gtable","C:/Program Files/R/R-3.6.1/library","0.3.0",NA,"R (>= 3.0)","grid",NA,"covr, testthat, knitr, rmarkdown, ggplot2, profvis",NA,"GPL-2",NA,NA,NA,NA,"no","3.5.3"
+"gtools","gtools","C:/Program Files/R/R-3.6.1/library","3.8.1",NA,"methods, stats, utils",NA,NA,NA,NA,"GPL-2",NA,NA,NA,NA,"yes","3.5.2"
+"haven","haven","C:/Program Files/R/R-3.6.1/library","2.1.1",NA,"R (>= 3.2)","forcats (>= 0.2.0), hms, Rcpp (>= 0.11.4), readr (>= 0.1.0),
+tibble","Rcpp","covr, fs, knitr, rmarkdown, testthat, pillar (>= 1.1.1), cli,
+crayon",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","3.5.3"
+"highr","highr","C:/Program Files/R/R-3.6.1/library","0.8",NA,"R (>= 3.2.3)",NA,NA,"knitr, testit",NA,"GPL",NA,NA,NA,NA,"no","3.5.3"
+"Hmisc","Hmisc","C:/Program Files/R/R-3.6.1/library","4.2-0",NA,"lattice, survival (>= 2.40-1), Formula, ggplot2 (>= 2.2)","methods, latticeExtra, cluster, rpart, nnet, acepack, foreign,
+gtable, grid, gridExtra, data.table, htmlTable (>= 1.11.0),
+viridis, htmltools, base64enc",NA,"chron, rms, mice, tables, knitr, ff, ffbase, plotly (>=
+4.5.6), rlang",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","3.5.3"
+"hms","hms","C:/Program Files/R/R-3.6.1/library","0.5.0",NA,NA,"methods, pkgconfig, rlang, vctrs (>= 0.2.0)",NA,"crayon, lubridate, pillar (>= 1.1.0), testthat",NA,"GPL-3",NA,NA,NA,NA,"no","3.5.3"
+"htmlTable","htmlTable","C:/Program Files/R/R-3.6.1/library","1.13.1",NA,NA,"stringr, knitr (>= 1.6), magrittr (>= 1.5), methods,
+checkmate, htmlwidgets, htmltools, rstudioapi (>= 0.6)",NA,"testthat, XML, xtable, ztable, Hmisc, reshape, rmarkdown,
+pander, chron, lubridate, tibble, tidyr (>= 0.7.2), dplyr (>=
+0.7.4)",NA,"GPL (>= 3)",NA,NA,NA,NA,"no","3.5.3"
+"htmltools","htmltools","C:/Program Files/R/R-3.6.1/library","0.3.6",NA,"R (>= 2.14.1)","utils, digest, Rcpp","Rcpp","markdown, testthat","knitr","GPL (>= 2)",NA,NA,NA,NA,"yes","3.5.1"
+"htmlwidgets","htmlwidgets","C:/Program Files/R/R-3.6.1/library","1.3",NA,NA,"grDevices, htmltools (>= 0.3), jsonlite (>= 0.9.16), yaml",NA,"knitr (>= 1.8)","shiny (>= 1.1)","MIT + file LICENSE",NA,NA,NA,NA,"no","3.5.3"
+"httpuv","httpuv","C:/Program Files/R/R-3.6.1/library","1.5.1",NA,"R (>= 2.15.1)","Rcpp (>= 0.11.0), utils, R6, promises, later (>= 0.8.0)","Rcpp, BH, later","testthat, callr, curl",NA,"GPL (>= 2) | file LICENSE",NA,NA,NA,NA,"yes","3.5.3"
+"httr","httr","C:/Program Files/R/R-3.6.1/library","1.4.1",NA,"R (>= 3.2)","curl (>= 3.0.0), jsonlite, mime, openssl (>= 0.8), R6",NA,"covr, httpuv, jpeg, knitr, png, readr, rmarkdown, testthat
+(>= 0.8.0), xml2",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.5.3"
+"igraph","igraph","C:/Program Files/R/R-3.6.1/library","1.2.4.1",NA,"methods","graphics, grDevices, magrittr, Matrix, pkgconfig (>= 2.0.0),
+stats, utils",NA,"ape, digest, graph, igraphdata, rgl, scales, stats4, tcltk,
+testthat",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","3.5.3"
+"ImportExport","ImportExport","C:/Program Files/R/R-3.6.1/library","1.1",NA,"xlsx,gdata,Hmisc,chron,RODBC","haven,utils",NA,"shiny,shinyBS,shinythemes,compareGroups,foreign",NA,"GPL (>= 2)",NA,NA,NA,NA,"no","3.5.3"
+"ini","ini","C:/Program Files/R/R-3.6.1/library","0.3.1",NA,NA,NA,NA,"testthat",NA,"GPL-3",NA,NA,NA,NA,"no","3.5.3"
+"inspectdf","inspectdf","C:/Program Files/R/R-3.6.1/library","0.0.4",NA,"R (>= 3.1.0)","dplyr, ggplot2, magrittr, progress, Rcpp, tibble, tidyr,
+ggfittext (>= 0.8.0)","Rcpp","testthat",NA,"GPL-2",NA,NA,NA,NA,"yes","3.5.3"
+"intervals","intervals","C:/Program Files/R/R-3.6.1/library","0.15.1",NA,"R (>= 2.9.0)","utils, graphics, methods",NA,NA,NA,"Artistic-2.0",NA,NA,NA,NA,"yes","3.5.0"
+"ipdw","ipdw","C:/Program Files/R/R-3.6.1/library","0.2-7",NA,"R (>= 3.0.2),gdistance","sp,raster,rgeos,methods",NA,"geoR,gstat,gdata,spatstat,rgdal, testthat, knitr, rmarkdown",NA,"GPL (>= 2)",NA,NA,NA,NA,"no","3.5.1"
+"jpeg","jpeg","C:/Program Files/R/R-3.6.1/library","0.1-8",NA,"R (>= 2.9.0)",NA,NA,NA,NA,"GPL-2 | GPL-3",NA,NA,NA,NA,"yes","3.5.0"
+"jqr","jqr","C:/Program Files/R/R-3.6.1/library","1.1.0",NA,"R (>= 3.1.2)","magrittr, lazyeval",NA,"roxygen2 (>= 6.1.0), jsonlite, testthat, knitr, rmarkdown",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","3.5.3"
+"jsonlite","jsonlite","C:/Program Files/R/R-3.6.1/library","1.6",NA,"methods",NA,NA,"httr, curl, plyr, testthat, knitr, rmarkdown, R.rsp, sp",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","3.5.3"
+"KernSmooth","KernSmooth","C:/Program Files/R/R-3.6.1/library","2.23-15","recommended","R (>= 2.5.0), stats",NA,NA,"MASS",NA,"Unlimited",NA,NA,NA,NA,"yes","3.6.1"
+"klaR","klaR","C:/Program Files/R/R-3.6.1/library","0.6-14",NA,"R (>= 2.10.0), MASS","combinat, questionr, grDevices, stats, utils, graphics",NA,"scatterplot3d (>= 0.3-22), som, mlbench, rpart, e1071",NA,"GPL-2",NA,NA,NA,NA,"no","3.5.1"
+"knitr","knitr","C:/Program Files/R/R-3.6.1/library","1.24",NA,"R (>= 3.2.3)","evaluate (>= 0.10), highr, markdown, stringr (>= 0.6), yaml
+(>= 2.1.19), methods, xfun, tools",NA,"formatR, testit, digest, rgl (>= 0.95.1201), codetools,
+rmarkdown, htmlwidgets (>= 0.7), webshot, tikzDevice (>= 0.10),
+tinytex, reticulate (>= 1.4), JuliaCall (>= 0.11.1), magick,
+png, jpeg, gifski, xml2 (>= 1.2.0), httr, DBI (>= 0.4-1),
+showtext, tibble, styler",NA,"GPL",NA,NA,NA,NA,"no","3.5.3"
+"kSamples","kSamples","C:/Program Files/R/R-3.6.1/library","1.2-9",NA,"SuppDists","methods, graphics, stats",NA,NA,NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","3.5.3"
+"labeling","labeling","C:/Program Files/R/R-3.6.1/library","0.3",NA,NA,NA,NA,NA,NA,"MIT + file LICENSE | Unlimited",NA,NA,NA,NA,"no","3.5.0"
+"labelled","labelled","C:/Program Files/R/R-3.6.1/library","2.2.1",NA,NA,"haven (>= 2.1.0), dplyr, stats",NA,"testthat, knitr, rmarkdown, questionr, snakecase","memisc","GPL-3",NA,NA,NA,NA,"no","3.5.3"
+"later","later","C:/Program Files/R/R-3.6.1/library","0.8.0",NA,NA,"Rcpp (>= 0.12.9), rlang","Rcpp, BH","knitr, rmarkdown, testthat",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","3.5.3"
+"lattice","lattice","C:/Program Files/R/R-3.6.1/library","0.20-38","recommended","R (>= 3.0.0)","grid, grDevices, graphics, stats, utils",NA,"KernSmooth, MASS, latticeExtra","chron","GPL (>= 2)",NA,NA,NA,NA,"yes","3.6.1"
+"MASS","MASS","C:/Program Files/R/R-3.6.1/library","7.3-51.4","recommended","R (>= 3.1.0), grDevices, graphics, stats, utils","methods",NA,"lattice, nlme, nnet, survival",NA,"GPL-2 | GPL-3",NA,NA,NA,NA,"yes","3.6.1"
+"Matrix","Matrix","C:/Program Files/R/R-3.6.1/library","1.2-17","recommended","R (>= 3.2.0)","methods, graphics, grid, stats, utils, lattice",NA,"expm, MASS","MatrixModels, graph, SparseM, sfsmisc","GPL (>= 2) | file LICENCE",NA,NA,NA,NA,"yes","3.6.1"
+"matrixcalc","matrixcalc","C:/Program Files/R/R-3.6.1/library","1.0-3",NA,"R (>= 2.0.1)",NA,NA,NA,NA,"GPL (>= 2)",NA,NA,NA,NA,NA,"3.5.2"
+"MatrixModels","MatrixModels","C:/Program Files/R/R-3.6.1/library","0.4-1",NA,"R (>= 3.0.1)","stats, methods, Matrix (>= 1.1-5)",NA,NA,NA,"GPL (>= 2)",NA,NA,NA,NA,"no","3.5.1"
+"memoise","memoise","C:/Program Files/R/R-3.6.1/library","1.1.0",NA,NA,"digest (>= 0.6.3)",NA,"testthat, aws.s3, httr, covr",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.5.1"
+"methods","methods","C:/Program Files/R/R-3.6.1/library","3.6.1","base",NA,"utils, stats",NA,"codetools",NA,"Part of R 3.6.1",NA,NA,NA,NA,"yes","3.6.1"
+"mgcv","mgcv","C:/Program Files/R/R-3.6.1/library","1.8-28","recommended","R (>= 2.14.0), nlme (>= 3.1-64)","methods, stats, graphics, Matrix, splines, utils",NA,"parallel, survival, MASS",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","3.6.1"
+"mi","mi","C:/Program Files/R/R-3.6.1/library","1.0",NA,"R (>= 3.0.0), methods, Matrix, stats4","arm (>= 1.4-11)",NA,"betareg, lattice, knitr, MASS, nnet, parallel, sn, survival,
+truncnorm, foreign",NA,"GPL (>= 2)",NA,NA,NA,NA,"no","3.5.2"
+"mime","mime","C:/Program Files/R/R-3.6.1/library","0.7",NA,NA,"tools",NA,NA,NA,"GPL",NA,NA,NA,NA,"yes","3.5.3"
+"miniUI","miniUI","C:/Program Files/R/R-3.6.1/library","0.1.1.1",NA,NA,"shiny (>= 0.13), htmltools (>= 0.3), utils",NA,NA,NA,"GPL-3",NA,NA,NA,NA,"no","3.5.1"
+"minqa","minqa","C:/Program Files/R/R-3.6.1/library","1.2.4",NA,NA,"Rcpp (>= 0.9.10)","Rcpp",NA,NA,"GPL-2",NA,NA,NA,NA,"yes","3.5.1"
+"mitools","mitools","C:/Program Files/R/R-3.6.1/library","2.4",NA,NA,"DBI, methods, stats",NA,"RODBC, foreign",NA,"GPL-2",NA,NA,NA,NA,"no","3.5.3"
+"modelr","modelr","C:/Program Files/R/R-3.6.1/library","0.1.5",NA,"R (>= 3.2)","broom, dplyr, magrittr, purrr (>= 0.2.2), rlang (>= 0.2.0),
+tibble, tidyr (>= 0.8.0)",NA,"compiler, covr, ggplot2, testthat",NA,"GPL-3",NA,NA,NA,NA,"no","3.5.3"
+"multcomp","multcomp","C:/Program Files/R/R-3.6.1/library","1.4-10",NA,"stats, graphics, mvtnorm (>= 1.0-10), survival (>= 2.39-4),
+TH.data (>= 1.0-2)","sandwich (>= 2.3-0), codetools",NA,"lme4 (>= 0.999375-16), nlme, robustbase, coin, MASS, foreign,
+xtable, lmtest, coxme (>= 2.2-1), SimComp, ISwR, tram (>=
+0.2-5)",NA,"GPL-2",NA,NA,NA,NA,"no","3.5.3"
+"multcompView","multcompView","C:/Program Files/R/R-3.6.1/library","0.1-7",NA,NA,"grid",NA,"multcomp, pgirmess, MASS",NA,"GPL",NA,NA,NA,NA,"no","3.5.1"
+"munsell","munsell","C:/Program Files/R/R-3.6.1/library","0.5.0",NA,NA,"colorspace, methods",NA,"ggplot2, testthat",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.5.1"
+"mvtnorm","mvtnorm","C:/Program Files/R/R-3.6.1/library","1.0-11",NA,"R(>= 3.5.0)","stats, methods",NA,NA,NA,"GPL-2",NA,NA,NA,NA,"yes","3.5.3"
+"networkD3","networkD3","C:/Program Files/R/R-3.6.1/library","0.4",NA,"R (>= 3.0.0)","htmlwidgets (>= 0.3.2), igraph, magrittr",NA,"htmltools (>= 0.2.6), jsonlite,","knitr, shiny","GPL (>= 3)",NA,NA,NA,NA,"no","3.5.3"
+"nlme","nlme","C:/Program Files/R/R-3.6.1/library","3.1-140","recommended","R (>= 3.4.0)","graphics, stats, utils, lattice",NA,"Hmisc, MASS",NA,"GPL (>= 2) | file LICENCE",NA,NA,NA,NA,"yes","3.6.1"
+"nloptr","nloptr","C:/Program Files/R/R-3.6.1/library","1.2.1",NA,NA,NA,NA,"testthat (>= 0.8.1), knitr, rmarkdown, inline (>= 0.3.14)",NA,"LGPL-3",NA,NA,NA,NA,"yes","3.5.3"
+"nnet","nnet","C:/Program Files/R/R-3.6.1/library","7.3-12","recommended","R (>= 2.14.0), stats, utils",NA,NA,"MASS",NA,"GPL-2 | GPL-3",NA,NA,NA,NA,"yes","3.6.1"
+"nortest","nortest","C:/Program Files/R/R-3.6.1/library","1.0-4",NA,NA,"stats",NA,NA,NA,"GPL (>= 2)",NA,NA,NA,NA,"no","3.5.0"
+"numDeriv","numDeriv","C:/Program Files/R/R-3.6.1/library","2016.8-1.1",NA,"R (>= 2.11.1)",NA,NA,NA,NA,"GPL-2",NA,NA,NA,NA,"no","3.5.3"
+"openssl","openssl","C:/Program Files/R/R-3.6.1/library","1.4.1",NA,NA,"askpass",NA,"testthat, digest, knitr, rmarkdown, jsonlite, jose, sodium",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","3.5.3"
+"OpenStreetMap","OpenStreetMap","C:/Program Files/R/R-3.6.1/library","0.3.4",NA,"methods, R (>= 2.10.0)","grDevices, ggplot2 (>= 0.9.0), rJava, raster, rgdal, sp",NA,"colorspace, maptools",NA,"GPL-2 | file LICENCE",NA,NA,NA,NA,"no","3.5.3"
+"openxlsx","openxlsx","C:/Program Files/R/R-3.6.1/library","4.1.0.1",NA,"R (>= 3.3.0)","methods, Rcpp, grDevices, stats, utils, zip","Rcpp","knitr, testthat",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","3.5.3"
+"parallel","parallel","C:/Program Files/R/R-3.6.1/library","3.6.1","base",NA,"tools, compiler",NA,"methods","snow, nws, Rmpi","Part of R 3.6.1",NA,NA,NA,NA,"yes","3.6.1"
+"pbkrtest","pbkrtest","C:/Program Files/R/R-3.6.1/library","0.4-7",NA,"R (>= 3.2.3), lme4 (>= 1.1.10)","Matrix (>= 1.2.3), parallel, MASS, methods",NA,NA,NA,"GPL (>= 2)",NA,NA,NA,NA,"no","3.5.1"
+"PBSmapping","PBSmapping","C:/Program Files/R/R-3.6.1/library","2.72.1",NA,"R (>= 3.5.0)",NA,NA,"foreign, maptools, deldir",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","3.5.3"
+"pillar","pillar","C:/Program Files/R/R-3.6.1/library","1.4.2",NA,NA,"cli, crayon (>= 1.3.4), fansi, rlang (>= 0.3.0), utf8 (>=
+1.1.0), vctrs",NA,"knitr, lubridate, testthat, withr",NA,"GPL-3",NA,NA,NA,NA,"no","3.5.3"
+"pkgbuild","pkgbuild","C:/Program Files/R/R-3.6.1/library","1.0.4",NA,"R (>= 3.1)","callr (>= 3.2.0), cli, crayon, desc, prettyunits, R6,
+rprojroot, withr (>= 2.1.2)",NA,"Rcpp, testthat, covr",NA,"GPL-3",NA,NA,NA,NA,"no","3.5.3"
+"pkgconfig","pkgconfig","C:/Program Files/R/R-3.6.1/library","2.0.2",NA,NA,"utils",NA,"covr, testthat, disposables (>= 1.0.3)",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.5.1"
+"pkgload","pkgload","C:/Program Files/R/R-3.6.1/library","1.0.2",NA,NA,"desc, methods, pkgbuild, rlang, rprojroot, rstudioapi, utils,
+withr",NA,"bitops, covr, Rcpp, testthat",NA,"GPL-3",NA,NA,NA,NA,"yes","3.5.3"
+"plogr","plogr","C:/Program Files/R/R-3.6.1/library","0.2.0",NA,NA,NA,NA,"Rcpp",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.5.1"
+"plotrix","plotrix","C:/Program Files/R/R-3.6.1/library","3.7-6",NA,"R (>= 3.5.0)","grDevices, graphics, stats, utils",NA,NA,NA,"GPL (>= 2)",NA,NA,NA,NA,"no","3.5.3"
+"plyr","plyr","C:/Program Files/R/R-3.6.1/library","1.8.4",NA,"R (>= 3.1.0)","Rcpp (>= 0.11.0)","Rcpp","abind, testthat, tcltk, foreach, doParallel, itertools,
+iterators, covr",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","3.5.1"
+"PMCMR","PMCMR","C:/Program Files/R/R-3.6.1/library","4.3",NA,"R (>= 3.0.0), stats, base",NA,NA,"multcompView, xtable, graphics",NA,"GPL (>= 3)",NA,NA,NA,NA,"no","3.5.1"
+"PMCMRplus","PMCMRplus","C:/Program Files/R/R-3.6.1/library","1.4.1",NA,"R (>= 3.0.0)","mvtnorm (>= 1.0), multcompView, gmp, Rmpfr, SuppDists,
+kSamples (>= 1.2.7), BWStest (>= 0.2.1), MASS",NA,"xtable, graphics, knitr, rmarkdown, car, e1071, multcomp, pwr",NA,"GPL (>= 3)",NA,NA,NA,NA,"yes","3.5.3"
+"png","png","C:/Program Files/R/R-3.6.1/library","0.1-7",NA,"R (>= 2.9.0)",NA,NA,NA,NA,"GPL-2 | GPL-3",NA,NA,NA,NA,"yes","3.5.0"
+"praise","praise","C:/Program Files/R/R-3.6.1/library","1.0.0",NA,NA,NA,NA,"testthat",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.5.3"
+"prettymapr","prettymapr","C:/Program Files/R/R-3.6.1/library","0.2.2",NA,NA,"digest, rjson, httr, plyr",NA,"maptools, raster, rosm, testthat, rgdal, sp",NA,"GPL-2",NA,NA,NA,NA,"no","3.5.1"
+"prettyunits","prettyunits","C:/Program Files/R/R-3.6.1/library","1.0.2",NA,NA,"magrittr, assertthat, methods",NA,"testthat",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.5.3"
+"processx","processx","C:/Program Files/R/R-3.6.1/library","3.4.1",NA,NA,"ps (>= 1.2.0), R6, utils",NA,"callr (>= 3.2.0), codetools, covr, crayon, curl, debugme,
+parallel, testthat, withr",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","3.5.3"
+"progress","progress","C:/Program Files/R/R-3.6.1/library","1.2.2",NA,NA,"hms, prettyunits, R6, crayon",NA,"Rcpp, testthat, withr",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.5.3"
+"promises","promises","C:/Program Files/R/R-3.6.1/library","1.0.1",NA,NA,"R6, Rcpp, later, rlang, stats, magrittr","later, Rcpp","testthat, future, knitr, rmarkdown",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","3.5.1"
+"proto","proto","C:/Program Files/R/R-3.6.1/library","1.0.0",NA,NA,NA,NA,"testthat, covr",NA,"GPL-2",NA,NA,NA,NA,"no","3.5.1"
+"ps","ps","C:/Program Files/R/R-3.6.1/library","1.3.0",NA,"R (>= 3.1)","utils",NA,"callr, covr, curl, pingr, processx (>= 3.1.0), R6, rlang,
+testthat, tibble",NA,"BSD_3_clause + file LICENSE",NA,NA,NA,NA,"yes","3.5.3"
+"purrr","purrr","C:/Program Files/R/R-3.6.1/library","0.3.2",NA,"R (>= 3.1)","magrittr (>= 1.5), rlang (>= 0.3.1)",NA,"covr, crayon, dplyr (>= 0.7.8), knitr, rmarkdown, testthat,
+tibble, tidyselect",NA,"GPL-3 | file LICENSE",NA,NA,NA,NA,"yes","3.5.3"
+"quantreg","quantreg","C:/Program Files/R/R-3.6.1/library","5.51",NA,"R (>= 2.6), stats, SparseM","methods, graphics, Matrix, MatrixModels",NA,"tripack, akima, MASS, survival, rgl, logspline, nor1mix,
+Formula, zoo, R.rsp",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","3.5.3"
+"questionr","questionr","C:/Program Files/R/R-3.6.1/library","0.7.0",NA,"R (>= 2.10)","shiny (>= 1.0.5), miniUI, rstudioapi, highr, classInt,
+htmltools, graphics, stats, utils, labelled (>= 2.0.0)",NA,"memisc, testthat, roxygen2, dplyr, tidyr, janitor, forcats,
+knitr",NA,"GPL (>= 2)",NA,NA,NA,NA,"no","3.5.3"
+"R6","R6","C:/Program Files/R/R-3.6.1/library","2.4.0",NA,"R (>= 3.0)",NA,NA,"knitr, microbenchmark, pryr, testthat, ggplot2, scales",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.5.3"
+"RandomFields","RandomFields","C:/Program Files/R/R-3.6.1/library","3.3.6",NA,"R (>= 3.0), sp, RandomFieldsUtils (>= 0.5.1)","graphics, methods, grDevices, stats, utils","RandomFieldsUtils","colorspace, RColorBrewer, mvtnorm, raster, tcltk2, tcltk,
+tkrplot, spam, tools, geoR, minqa, soma, optimx, nloptr, pso,
+GenSA",NA,"GPL (>= 3)",NA,NA,NA,NA,"yes","3.5.3"
+"RandomFieldsUtils","RandomFieldsUtils","C:/Program Files/R/R-3.6.1/library","0.5.3",NA,"R (>= 3.0)","utils, methods",NA,NA,NA,"GPL (>= 3)",NA,NA,NA,NA,"yes","3.5.2"
+"rappdirs","rappdirs","C:/Program Files/R/R-3.6.1/library","0.3.1",NA,"R (>= 2.14), methods",NA,NA,"testthat, roxygen2",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","3.5.3"
+"raster","raster","C:/Program Files/R/R-3.6.1/library","2.9-23",NA,"sp (>= 1.2-0), R (>= 3.0.0)","Rcpp, methods","Rcpp","rgdal (>= 0.9-1), rgeos (>= 0.3-8), ncdf4, igraph, tcltk,
+parallel, rasterVis, MASS, sf, testthat",NA,"GPL (>= 3)",NA,NA,NA,NA,"yes","3.5.3"
+"rcmdcheck","rcmdcheck","C:/Program Files/R/R-3.6.1/library","1.3.3",NA,NA,"callr (>= 3.1.1.9000), cli (>= 1.1.0), crayon, desc (>=
+1.2.0), digest, pkgbuild, prettyunits, R6, rprojroot,
+sessioninfo (>= 1.1.1), utils, withr, xopen",NA,"covr, knitr, mockery, rmarkdown, testthat",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.5.3"
+"Rcmdr","Rcmdr","C:/Program Files/R/R-3.6.1/library","2.5-3",NA,"R (>= 3.5.0), grDevices, graphics, methods, stats, utils,
+splines, RcmdrMisc (>= 2.5-0), car (>= 3.0-1), effects (>=
+4.0-3)","tcltk, tcltk2 (>= 1.2-6), abind, relimp (>= 1.0-5)",NA,"aplpack, boot, colorspace, e1071, foreign, grid, Hmisc,
+knitr, lattice, leaps, lmtest, markdown, MASS, mgcv, multcomp
+(>= 0.991-2), nlme, nnet, nortest, readxl, rgl (>= 0.96.0),
+rmarkdown (>= 0.9.5), sem (>= 2.1-1)",NA,"GPL (>= 2)",NA,NA,NA,NA,"no","3.5.3"
+"RcmdrMisc","RcmdrMisc","C:/Program Files/R/R-3.6.1/library","2.5-1",NA,"R (>= 3.5.0), utils, car (>= 3.0-0), sandwich","abind, colorspace, Hmisc (>= 4.1-0), MASS, e1071, foreign,
+haven, readstata13, readxl, graphics, grDevices, stats, nortest",NA,"boot, datasets",NA,"GPL (>= 2)",NA,NA,NA,NA,"no","3.5.3"
+"RColorBrewer","RColorBrewer","C:/Program Files/R/R-3.6.1/library","1.1-2",NA,"R (>= 2.0.0)",NA,NA,NA,NA,"Apache License 2.0",NA,NA,NA,NA,"no","3.5.0"
+"Rcpp","Rcpp","C:/Program Files/R/R-3.6.1/library","1.0.2",NA,"R (>= 3.0.0)","methods, utils",NA,"RUnit, inline, rbenchmark, knitr, rmarkdown, pinp, pkgKitten
+(>= 0.1.2)",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","3.5.3"
+"RcppEigen","RcppEigen","C:/Program Files/R/R-3.6.1/library","0.3.3.5.0",NA,"R (>= 2.15.1)","Matrix (>= 1.1-0), Rcpp (>= 0.11.0), stats, utils","Rcpp","inline, RUnit, pkgKitten, microbenchmark",NA,"GPL (>= 2) | file LICENSE",NA,NA,NA,NA,"yes","3.5.3"
+"readr","readr","C:/Program Files/R/R-3.6.1/library","1.3.1",NA,"R (>= 3.1)","Rcpp (>= 0.12.0.5), tibble, hms (>= 0.4.1), R6, clipr, crayon,
+methods","Rcpp, BH","curl, testthat, knitr, rmarkdown, stringi, covr, spelling",NA,"GPL (>= 2) | file LICENSE",NA,NA,NA,NA,"yes","3.5.3"
+"readstata13","readstata13","C:/Program Files/R/R-3.6.1/library","0.9.2",NA,NA,"Rcpp (>= 0.11.5)","Rcpp","testthat",NA,"GPL-2 | file LICENSE",NA,NA,NA,NA,"yes","3.5.1"
+"readxl","readxl","C:/Program Files/R/R-3.6.1/library","1.3.1",NA,NA,"cellranger, Rcpp (>= 0.12.18), tibble (>= 1.3.1), utils","progress, Rcpp","covr, knitr, rmarkdown, rprojroot (>= 1.1), testthat",NA,"GPL-3",NA,NA,NA,NA,"yes","3.5.3"
+"relimp","relimp","C:/Program Files/R/R-3.6.1/library","1.0-5",NA,"R (>= 2.0.0)","stats, utils",NA,"tcltk, nnet, MASS, Rcmdr",NA,"GPL (>= 2)",NA,NA,NA,NA,"no","3.5.1"
+"rematch","rematch","C:/Program Files/R/R-3.6.1/library","1.0.1",NA,NA,NA,NA,"covr, testthat",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.5.1"
+"remotes","remotes","C:/Program Files/R/R-3.6.1/library","2.1.0",NA,"R (>= 3.0.0)","methods, stats, tools, utils",NA,"brew, callr, codetools, curl, covr, git2r (>= 0.23.0), knitr,
+mockery, pkgbuild (>= 1.0.1), pingr, rmarkdown, rprojroot,
+testthat, withr",NA,"GPL (>= 2)",NA,NA,NA,NA,"no","3.5.3"
+"reprex","reprex","C:/Program Files/R/R-3.6.1/library","0.3.0",NA,"R (>= 3.1)","callr (>= 2.0.0), clipr (>= 0.4.0), fs, rlang, rmarkdown,
+utils, whisker, withr",NA,"covr, devtools, fortunes, knitr, miniUI, rprojroot,
+rstudioapi, shiny, styler (>= 1.0.2), testthat (>= 2.0.0)",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.5.3"
+"reshape2","reshape2","C:/Program Files/R/R-3.6.1/library","1.4.3",NA,"R (>= 3.1)","plyr (>= 1.8.1), Rcpp, stringr","Rcpp","covr, lattice, testthat (>= 0.8.0)",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","3.5.1"
+"rgdal","rgdal","C:/Program Files/R/R-3.6.1/library","1.4-4",NA,"R (>= 3.3.0), methods, sp (>= 1.1-0)","grDevices, graphics, stats, utils","sp",NA,NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","3.5.3"
+"rgeos","rgeos","C:/Program Files/R/R-3.6.1/library","0.5-1",NA,"R (>= 3.3.0), methods, sp (>= 1.1-0)","utils, stats, graphics","sp","maptools (>= 0.8-5), testthat, XML, maps, rgdal",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","3.5.3"
+"rgl","rgl","C:/Program Files/R/R-3.6.1/library","0.100.26",NA,"R (>= 3.2.0)","graphics, grDevices, stats, utils, htmlwidgets, htmltools,
+knitr, jsonlite (>= 0.9.20), shiny, magrittr, crosstalk,
+manipulateWidget (>= 0.9.0)",NA,"MASS, rmarkdown, deldir, orientlib, lattice, misc3d,
+rstudioapi, magick, plotrix (>= 3.7-3), tripack, interp,
+alphashape3d",NA,"GPL",NA,NA,NA,NA,"yes","3.5.3"
+"RgoogleMaps","RgoogleMaps","C:/Program Files/R/R-3.6.1/library","1.4.3",NA,"R (>= 2.10)","graphics, stats, utils, grDevices, methods, png",NA,"PBSmapping, maptools, sp, loa, RColorBrewer, leaflet",NA,"GPL",NA,NA,NA,NA,"no","3.5.3"
+"rgr","rgr","C:/Program Files/R/R-3.6.1/library","1.1.15",NA,"MASS, fastICA",NA,NA,"akima",NA,"GPL-2",NA,NA,NA,NA,"no","3.5.1"
+"rio","rio","C:/Program Files/R/R-3.6.1/library","0.5.16",NA,"R (>= 2.15.0)","tools, stats, utils, foreign, haven (>= 1.1.0), curl (>= 0.6),
+data.table (>= 1.9.8), readxl (>= 0.1.1), openxlsx, tibble",NA,"datasets, bit64, testthat, knitr, magrittr, clipr, csvy,
+feather, fst, hexView, jsonlite, readODS (>= 1.6.4), readr,
+rmatio, xml2 (>= 1.2.0), yaml",NA,"GPL-2",NA,NA,NA,NA,"no","3.5.3"
+"rJava","rJava","C:/Program Files/R/R-3.6.1/library","0.9-11",NA,"R (>= 2.5.0), methods",NA,NA,NA,NA,"GPL-2",NA,NA,NA,NA,"yes","3.5.3"
+"rjson","rjson","C:/Program Files/R/R-3.6.1/library","0.2.20",NA,"R (>= 3.1.0)",NA,NA,NA,NA,"GPL-2",NA,NA,NA,NA,"yes","3.5.0"
+"rlang","rlang","C:/Program Files/R/R-3.6.1/library","0.4.0",NA,"R (>= 3.2.0)",NA,NA,"covr, crayon, magrittr, methods, pillar, rmarkdown, testthat
+(>= 2.0.0)",NA,"GPL-3",NA,NA,NA,NA,"yes","3.5.3"
+"rmarkdown","rmarkdown","C:/Program Files/R/R-3.6.1/library","1.14",NA,"R (>= 3.0)","tools, utils, knitr (>= 1.22), yaml (>= 2.1.19), htmltools (>=
+0.3.5), evaluate (>= 0.13), base64enc, jsonlite, mime, tinytex
+(>= 0.11), xfun, methods, stringr (>= 1.2.0)",NA,"shiny (>= 0.11), tufte, testthat, digest, dygraphs, tibble,
+fs, pkgdown, callr (>= 2.0.0)",NA,"GPL-3",NA,NA,NA,NA,"no","3.5.3"
+"Rmisc","Rmisc","C:/Program Files/R/R-3.6.1/library","1.5",NA,"lattice, plyr",NA,NA,"latticeExtra, Hmisc, stats4",NA,"GPL-3",NA,NA,NA,NA,"no","3.5.1"
+"Rmpfr","Rmpfr","C:/Program Files/R/R-3.6.1/library","0.7-2",NA,"gmp (>= 0.5-8), R (>= 3.3.0)","stats, utils, methods",NA,"MASS, Bessel, polynom, sfsmisc (>= 1.0-20), Matrix",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","3.5.3"
+"robustbase","robustbase","C:/Program Files/R/R-3.6.1/library","0.93-5",NA,"R (>= 3.1.0)","stats, graphics, utils, methods, DEoptimR",NA,"grid, MASS, lattice, boot, cluster, Matrix, robust,
+fit.models, MPV, xtable, ggplot2, GGally, RColorBrewer,
+reshape2, sfsmisc, catdata, doParallel, foreach, skewt",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","3.5.3"
+"RODBC","RODBC","C:/Program Files/R/R-3.6.1/library","1.3-15",NA,"R (>= 3.0.0)","stats",NA,NA,NA,"GPL-2 | GPL-3",NA,NA,NA,NA,"yes","3.5.2"
+"roxygen2","roxygen2","C:/Program Files/R/R-3.6.1/library","6.1.1",NA,"R (>= 3.1)","brew, commonmark, desc (>= 1.2.0), digest, methods, pkgload
+(>= 1.0.2), purrr, R6 (>= 2.1.2), Rcpp (>= 0.11.0), stringi,
+stringr (>= 1.0.0), utils, xml2","Rcpp","covr, devtools, knitr, rmarkdown, testthat (>= 0.8.0)",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","3.5.3"
+"rpanel","rpanel","C:/Program Files/R/R-3.6.1/library","1.1-4",NA,"R (>= 3.0), tcltk",NA,NA,"tkrplot, rgl, sp, geoR, RandomFields, akima, MASS, denstrip,
+lattice, sm, maps, mgcv, colorspace, ggplot2",NA,"GPL (>= 2)",NA,NA,NA,NA,"no","3.5.3"
+"rpart","rpart","C:/Program Files/R/R-3.6.1/library","4.1-15","recommended","R (>= 2.15.0), graphics, stats, grDevices",NA,NA,"survival",NA,"GPL-2 | GPL-3",NA,NA,NA,NA,"yes","3.6.1"
+"rprojroot","rprojroot","C:/Program Files/R/R-3.6.1/library","1.3-2",NA,"R (>= 3.0.0)","backports",NA,"testthat, mockr, knitr, withr, rmarkdown",NA,"GPL-3",NA,NA,NA,NA,"no","3.5.1"
+"rstudioapi","rstudioapi","C:/Program Files/R/R-3.6.1/library","0.10",NA,NA,NA,NA,"testthat, knitr, rmarkdown",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.5.3"
+"rvest","rvest","C:/Program Files/R/R-3.6.1/library","0.3.4",NA,"R (>= 3.2), xml2","httr (>= 0.5), magrittr, selectr",NA,"covr, knitr, png, rmarkdown, spelling, stringi (>= 0.3.1),
+testthat",NA,"GPL-3",NA,NA,NA,NA,"no","3.5.3"
+"sandwich","sandwich","C:/Program Files/R/R-3.6.1/library","2.5-1",NA,"R (>= 2.10.0)","stats, utils, zoo",NA,"AER, car, geepack, lattice, lmtest, MASS, multiwayvcov,
+parallel, pcse, plm, pscl, scatterplot3d, stats4, strucchange,
+survival",NA,"GPL-2 | GPL-3",NA,NA,NA,NA,"no","3.5.3"
+"scales","scales","C:/Program Files/R/R-3.6.1/library","1.0.0",NA,"R (>= 3.1)","labeling, munsell (>= 0.5), R6, RColorBrewer, Rcpp,
+viridisLite","Rcpp","dichromat, bit64, covr, hms, testthat (>= 2.0)",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","3.5.1"
+"selectr","selectr","C:/Program Files/R/R-3.6.1/library","0.4-1",NA,"R (>= 3.0)","methods, stringr, R6",NA,"testthat, XML, xml2",NA,"BSD_3_clause + file LICENCE",NA,NA,NA,NA,"no","3.5.2"
+"sem","sem","C:/Program Files/R/R-3.6.1/library","3.1-9",NA,"R (>= 2.14.0), stats","matrixcalc, MASS, boot, mi (>= 0.9-99), utils",NA,"polycor, MBESS, DiagrammeR",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","3.5.2"
+"sessioninfo","sessioninfo","C:/Program Files/R/R-3.6.1/library","1.1.1",NA,NA,"cli, tools, utils, withr",NA,"callr, covr, mockery, testthat",NA,"GPL-2",NA,NA,NA,NA,"no","3.5.3"
+"shades","shades","C:/Program Files/R/R-3.6.1/library","1.4.0",NA,NA,NA,NA,"testthat, covr, ggplot2","colorspace","BSD_3_clause + file LICENCE",NA,NA,NA,NA,"no","3.5.3"
+"shiny","shiny","C:/Program Files/R/R-3.6.1/library","1.3.2",NA,"R (>= 3.0.2), methods","utils, grDevices, httpuv (>= 1.5.0), mime (>= 0.3), jsonlite
+(>= 0.9.16), xtable, digest, htmltools (>= 0.3.6), R6 (>= 2.0),
+sourcetools, later (>= 0.7.2), promises (>= 1.0.1), tools,
+crayon, rlang",NA,"datasets, Cairo (>= 1.5-5), testthat, knitr (>= 1.6),
+markdown, rmarkdown, ggplot2, reactlog (>= 1.0.0), magrittr",NA,"GPL-3 | file LICENSE",NA,NA,NA,NA,"no","3.5.3"
+"shinyjs","shinyjs","C:/Program Files/R/R-3.6.1/library","1.0",NA,"R (>= 3.1.0)","digest (>= 0.6.8), htmltools (>= 0.2.9), jsonlite, shiny (>=
+1.0.0)",NA,"knitr (>= 1.7), rmarkdown, shinyAce, testthat (>= 0.9.1), V8
+(>= 0.6)",NA,"AGPL-3",NA,NA,NA,NA,"no","3.5.3"
+"soilphysics","soilphysics","C:/Program Files/R/R-3.6.1/library","3.1",NA,"R (>= 2.15), rpanel, MASS, tcltk, tkrplot","utils, stats, graphics, boot, grDevices, datasets",NA,"soiltexture",NA,"GPL (>= 2)",NA,NA,NA,NA,"no","3.5.3"
+"soiltexture","soiltexture","C:/Program Files/R/R-3.6.1/library","1.5.1",NA,"R (>= 3.1.0)","sp, MASS, tools, tcltk, utils",NA,"xtable",NA,"AGPL (>= 3)",NA,NA,NA,NA,"no","3.5.3"
+"soilwater","soilwater","C:/Program Files/R/R-3.6.1/library","1.0.5",NA,NA,NA,NA,"raster",NA,"GPL (>= 2)",NA,NA,NA,NA,"no","3.5.3"
+"sourcetools","sourcetools","C:/Program Files/R/R-3.6.1/library","0.1.7",NA,"R (>= 3.0.2)",NA,NA,"testthat",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","3.5.1"
+"sp","sp","C:/Program Files/R/R-3.6.1/library","1.3-1",NA,"R (>= 3.0.0), methods","utils, stats, graphics, grDevices, lattice, grid",NA,"RColorBrewer, rgdal (>= 0.8-7), rgeos (>= 0.3-13), gstat,
+maptools, deldir",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","3.5.1"
+"spacetime","spacetime","C:/Program Files/R/R-3.6.1/library","1.2-2",NA,"R (>= 3.0.0)","graphics, utils, stats, methods, lattice, sp (>= 1.1-0), zoo
+(>= 1.7-9), xts (>= 0.8-8), intervals",NA,"adehabitatLT, cshapes, diveMove, foreign, gstat (>= 1.0-16),
+maps, mapdata, maptools, plm, raster, RColorBrewer, rgdal,
+rgeos, RPostgreSQL, knitr, googleVis, ISOcodes",NA,"GPL (>= 2)",NA,NA,NA,NA,"no","3.5.1"
+"SparseM","SparseM","C:/Program Files/R/R-3.6.1/library","1.77",NA,"R (>= 2.15), methods","graphics, stats, utils",NA,NA,NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","3.5.0"
+"spatial","spatial","C:/Program Files/R/R-3.6.1/library","7.3-11","recommended","R (>= 3.0.0), graphics, stats, utils",NA,NA,"MASS",NA,"GPL-2 | GPL-3",NA,NA,NA,NA,"yes","3.6.1"
+"spData","spData","C:/Program Files/R/R-3.6.1/library","0.3.0",NA,"R (>= 3.3.0)",NA,NA,"foreign, maptools, raster, rgdal, sf, sp, spDataLarge (>=
+0.3.0), spdep",NA,"CC0",NA,NA,NA,NA,"no","3.5.3"
+"splancs","splancs","C:/Program Files/R/R-3.6.1/library","2.01-40",NA,"R (>= 2.10.0), sp (>= 0.9)","stats, graphics, grDevices, methods",NA,NA,NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","3.5.1"
+"splines","splines","C:/Program Files/R/R-3.6.1/library","3.6.1","base",NA,"graphics, stats",NA,"Matrix, methods",NA,"Part of R 3.6.1",NA,NA,NA,NA,"yes","3.6.1"
+"stats","stats","C:/Program Files/R/R-3.6.1/library","3.6.1","base",NA,"utils, grDevices, graphics",NA,"MASS, Matrix, SuppDists, methods, stats4",NA,"Part of R 3.6.1",NA,NA,NA,NA,"yes","3.6.1"
+"stats4","stats4","C:/Program Files/R/R-3.6.1/library","3.6.1","base",NA,"graphics, methods, stats",NA,NA,NA,"Part of R 3.6.1",NA,NA,NA,NA,NA,"3.6.1"
+"stringi","stringi","C:/Program Files/R/R-3.6.1/library","1.4.3",NA,"R (>= 2.14)","tools, utils, stats",NA,NA,NA,"file LICENSE","yes",NA,NA,NA,"yes","3.5.3"
+"stringr","stringr","C:/Program Files/R/R-3.6.1/library","1.4.0",NA,"R (>= 3.1)","glue (>= 1.2.0), magrittr, stringi (>= 1.1.7)",NA,"covr, htmltools, htmlwidgets, knitr, rmarkdown, testthat",NA,"GPL-2 | file LICENSE",NA,NA,NA,NA,"no","3.5.3"
+"SuppDists","SuppDists","C:/Program Files/R/R-3.6.1/library","1.1-9.4",NA,"R (>= 3.3.0)",NA,NA,NA,NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","3.5.0"
+"survey","survey","C:/Program Files/R/R-3.6.1/library","3.36",NA,"R (>= 3.1.0), grid, methods, Matrix, survival","stats, graphics, splines, lattice, minqa, numDeriv, mitools
+(>= 2.4)",NA,"foreign, MASS, KernSmooth, hexbin, RSQLite, RODBC, quantreg,
+parallel, CompQuadForm, DBI",NA,"GPL-2 | GPL-3",NA,NA,NA,NA,"no","3.5.3"
+"survival","survival","C:/Program Files/R/R-3.6.1/library","2.44-1.1","recommended","R (>= 2.13.0)","graphics, Matrix, methods, splines, stats, utils",NA,NA,NA,"LGPL (>= 2)",NA,NA,NA,NA,"yes","3.6.1"
+"sys","sys","C:/Program Files/R/R-3.6.1/library","3.2",NA,NA,NA,NA,"unix (>= 1.4), spelling, testthat",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","3.5.3"
+"tcltk","tcltk","C:/Program Files/R/R-3.6.1/library","3.6.1","base",NA,"utils",NA,NA,NA,"Part of R 3.6.1",NA,NA,NA,NA,"yes","3.6.1"
+"tcltk2","tcltk2","C:/Program Files/R/R-3.6.1/library","1.2-11",NA,"R (>= 2.8.0), tcltk",NA,NA,"utils",NA,"LGPL-3 + file LICENSE",NA,NA,NA,NA,"no","3.5.0"
+"testthat","testthat","C:/Program Files/R/R-3.6.1/library","2.2.1",NA,"R (>= 3.1)","cli, crayon (>= 1.3.4), digest, evaluate, magrittr, methods,
+praise, R6 (>= 2.2.0), rlang (>= 0.3.0), withr (>= 2.0.0)",NA,"covr, curl (>= 0.9.5), devtools, knitr, rmarkdown, usethis,
+vctrs (>= 0.1.0), xml2",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","3.5.3"
+"TH.data","TH.data","C:/Program Files/R/R-3.6.1/library","1.0-10",NA,"R (>= 2.10.0), survival, MASS",NA,NA,"dplyr, gdata, plyr",NA,"GPL-3",NA,NA,NA,NA,"no","3.5.3"
+"tibble","tibble","C:/Program Files/R/R-3.6.1/library","2.1.3",NA,"R (>= 3.1.0)","cli, crayon (>= 1.3.4), fansi (>= 0.4.0), methods, pillar (>=
+1.3.1), pkgconfig, rlang (>= 0.3.0), utils",NA,"bench, covr, dplyr, htmltools, import, knitr, mockr,
+nycflights13, rmarkdown, testthat, withr",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","3.5.3"
+"tidyr","tidyr","C:/Program Files/R/R-3.6.1/library","0.8.3",NA,"R (>= 3.1)","dplyr (>= 0.7.0), glue, magrittr, purrr, Rcpp, rlang, stringi,
+tibble, tidyselect (>= 0.2.5), utils","Rcpp","covr, gapminder, knitr, rmarkdown, testthat",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","3.5.3"
+"tidyselect","tidyselect","C:/Program Files/R/R-3.6.1/library","0.2.5",NA,"R (>= 3.1)","glue (>= 1.3.0), purrr, rlang (>= 0.2.2), Rcpp (>= 0.12.0)","Rcpp (>= 0.12.0),","covr, dplyr, testthat",NA,"GPL-3",NA,NA,NA,NA,"yes","3.5.2"
+"tidyverse","tidyverse","C:/Program Files/R/R-3.6.1/library","1.2.1",NA,NA,"broom (>= 0.4.2), cli (>= 1.0.0), crayon (>= 1.3.4), dplyr (>=
+0.7.4), dbplyr (>= 1.1.0), forcats (>= 0.2.0), ggplot2 (>=
+2.2.1), haven (>= 1.1.0), hms (>= 0.3), httr (>= 1.3.1),
+jsonlite (>= 1.5), lubridate (>= 1.7.1), magrittr (>= 1.5),
+modelr (>= 0.1.1), purrr (>= 0.2.4), readr (>= 1.1.1), readxl
+(>= 1.0.0), reprex (>= 0.1.1), rlang (>= 0.1.4), rstudioapi (>=
+0.7), rvest (>= 0.3.2), stringr (>= 1.2.0), tibble (>= 1.3.4),
+tidyr (>= 0.7.2), xml2 (>= 1.1.1)",NA,"feather (>= 0.3.1), knitr (>= 1.17), rmarkdown (>= 1.7.4)",NA,"GPL-3 | file LICENSE",NA,NA,NA,NA,"no","3.5.2"
+"tinytex","tinytex","C:/Program Files/R/R-3.6.1/library","0.15",NA,NA,"xfun (>= 0.5)",NA,"testit, rstudioapi",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.5.3"
+"tkrplot","tkrplot","C:/Program Files/R/R-3.6.1/library","0.0-24",NA,"R (>= 2.13), grDevices, tcltk",NA,NA,NA,NA,"GPL",NA,NA,NA,NA,"yes","3.5.2"
+"tools","tools","C:/Program Files/R/R-3.6.1/library","3.6.1","base",NA,NA,NA,"codetools, methods, xml2, curl, commonmark",NA,"Part of R 3.6.1",NA,NA,NA,NA,"yes","3.6.1"
+"translations","translations","C:/Program Files/R/R-3.6.1/library","3.6.1",NA,NA,NA,NA,NA,NA,"Part of R 3.6.1",NA,NA,NA,NA,NA,"3.6.1"
+"usethis","usethis","C:/Program Files/R/R-3.6.1/library","1.5.1",NA,"R (>= 3.2)","clipr (>= 0.3.0), clisymbols, crayon, curl (>= 2.7), desc, fs
+(>= 1.3.0), gh, git2r (>= 0.23), glue (>= 1.3.0), purrr, rlang,
+rprojroot (>= 1.2), rstudioapi, stats, utils, whisker, withr,
+yaml",NA,"covr, knitr, magick, pkgdown (>= 1.1.0), rmarkdown, roxygen2,
+spelling (>= 1.2), styler (>= 1.0.2), testthat (>= 2.1.0)",NA,"GPL-3",NA,NA,NA,NA,"no","3.5.3"
+"utf8","utf8","C:/Program Files/R/R-3.6.1/library","1.1.4",NA,"R (>= 2.10)",NA,NA,"knitr, rmarkdown, testthat",NA,"Apache License (== 2.0) | file LICENSE",NA,NA,NA,NA,"yes","3.5.1"
+"utils","utils","C:/Program Files/R/R-3.6.1/library","3.6.1","base",NA,NA,NA,"methods, xml2, commonmark",NA,"Part of R 3.6.1",NA,NA,NA,NA,"yes","3.6.1"
+"vctrs","vctrs","C:/Program Files/R/R-3.6.1/library","0.2.0",NA,"R (>= 3.2)","backports, ellipsis (>= 0.2.0), digest, glue, rlang (>=
+0.4.0), zeallot",NA,"bit64, covr, crayon, generics, knitr, pillar (>= 1.4.1),
+pkgdown, rmarkdown, testthat, tibble",NA,"GPL-3",NA,NA,NA,NA,"yes","3.5.3"
+"viridis","viridis","C:/Program Files/R/R-3.6.1/library","0.5.1",NA,"R (>= 2.10), viridisLite (>= 0.3.0)","stats, ggplot2 (>= 1.0.1), gridExtra",NA,"hexbin (>= 1.27.0), scales, MASS, knitr, dichromat,
+colorspace, rasterVis, httr, mapproj, vdiffr, svglite (>=
+1.2.0), testthat, covr, rmarkdown, rgdal",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.5.1"
+"viridisLite","viridisLite","C:/Program Files/R/R-3.6.1/library","0.3.0",NA,"R (>= 2.10)",NA,NA,"hexbin (>= 1.27.0), ggplot2 (>= 1.0.1), testthat, covr",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.5.1"
+"webshot","webshot","C:/Program Files/R/R-3.6.1/library","0.5.1",NA,"R (>= 3.0)","magrittr, jsonlite, callr",NA,"httpuv, knitr, rmarkdown, shiny",NA,"GPL-2",NA,NA,NA,NA,"no","3.5.1"
+"whisker","whisker","C:/Program Files/R/R-3.6.1/library","0.3-2",NA,NA,NA,NA,"markdown",NA,"GPL-3",NA,NA,NA,NA,"no","3.5.2"
+"withr","withr","C:/Program Files/R/R-3.6.1/library","2.1.2",NA,"R (>= 3.0.2)","stats, graphics, grDevices",NA,"testthat, covr, lattice, DBI, RSQLite, methods, knitr,
+rmarkdown",NA,"GPL (>= 2)",NA,NA,NA,NA,"no","3.5.1"
+"wordcloud2","wordcloud2","C:/Program Files/R/R-3.6.1/library","0.2.1",NA,"R (>= 3.1.0)","htmlwidgets, base64enc, grDevices, graphics",NA,"knitr, rmarkdown, webshot","shiny (>= 0.12)","GPL-2",NA,NA,NA,NA,"no","3.5.1"
+"xfun","xfun","C:/Program Files/R/R-3.6.1/library","0.8",NA,NA,"stats, tools",NA,"testit, parallel, rstudioapi, tinytex, mime, markdown, knitr,
+htmltools, base64enc, remotes, rmarkdown",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.5.3"
+"xlsx","xlsx","C:/Program Files/R/R-3.6.1/library","0.6.1",NA,NA,"rJava, xlsxjars, grDevices, utils",NA,NA,NA,"GPL-3",NA,NA,NA,NA,"no","3.5.3"
+"xlsxjars","xlsxjars","C:/Program Files/R/R-3.6.1/library","0.6.1",NA,"rJava",NA,NA,NA,NA,"GPL-3",NA,NA,NA,NA,"no","3.5.3"
+"xml2","xml2","C:/Program Files/R/R-3.6.1/library","1.2.2",NA,"R (>= 3.1.0)","Rcpp, methods","Rcpp (>= 0.12.12)","covr, curl, httr, knitr, magrittr, mockery, rmarkdown,
+testthat (>= 2.1.0)",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","3.5.3"
+"xopen","xopen","C:/Program Files/R/R-3.6.1/library","1.0.0",NA,"R (>= 3.1)","processx",NA,"ps, testthat",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.5.3"
+"xtable","xtable","C:/Program Files/R/R-3.6.1/library","1.8-4",NA,"R (>= 2.10.0)","stats, utils",NA,"knitr, plm, zoo, survival",NA,"GPL (>= 2)",NA,NA,NA,NA,"no","3.5.3"
+"xts","xts","C:/Program Files/R/R-3.6.1/library","0.11-2",NA,"zoo (>= 1.7-12)","methods","zoo","timeSeries, timeDate, tseries, chron, fts, tis, RUnit",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","3.5.1"
+"yaml","yaml","C:/Program Files/R/R-3.6.1/library","2.2.0",NA,NA,NA,NA,"RUnit",NA,"BSD_3_clause + file LICENSE",NA,NA,NA,NA,"yes","3.5.1"
+"zeallot","zeallot","C:/Program Files/R/R-3.6.1/library","0.1.0",NA,NA,NA,NA,"testthat, knitr, rmarkdown, purrr, magrittr",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.5.3"
+"zip","zip","C:/Program Files/R/R-3.6.1/library","2.0.3",NA,NA,NA,NA,"covr, processx, R6, testthat, withr",NA,"CC0",NA,NA,NA,NA,"yes","3.5.3"
+"zoo","zoo","C:/Program Files/R/R-3.6.1/library","1.8-6",NA,"R (>= 3.1.0), stats","utils, graphics, grDevices, lattice (>= 0.20-27)",NA,"coda, chron, DAAG, fts, ggplot2, mondate, scales,
+strucchange, timeDate, timeSeries, tis, tseries, xts",NA,"GPL-2 | GPL-3",NA,NA,NA,NA,"yes","3.5.3"
